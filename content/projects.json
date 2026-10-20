@@ -1,0 +1,440 @@
+{
+  "projects": [
+    {
+      "title": { "en": "Blood Donation Foundation Website", "bn": "রক্তদান ফাউন্ডেশন ওয়েবসাইট" },
+      "mainCategory": "WordPress",
+      "category": "WordPress",
+      "categories": ["Non-Profit", "Client Work"],
+      "label": { "en": "Client Project", "bn": "ক্লায়েন্ট প্রজেক্ট" },
+      "image": "assets/projects/blood-donation/cover.webp",
+      "imageAlt": { "en": "Rangpur Youth Blood Donation Foundation homepage", "bn": "রংপুর যুব রক্তদান ফাউন্ডেশনের হোমপেজ" },
+      "excerpt": {
+        "en": "A complete WordPress website for Rangpur Youth Blood Donation Group & Helping Foundation to connect blood donors with those in need.",
+        "bn": "রংপুর যুব রক্তদান গ্রুপ ও হেল্পিং ফাউন্ডেশনের জন্য একটি সম্পূর্ণ ওয়ার্ডপ্রেস ওয়েবসাইট, যেখানে রক্তদাতা ও প্রয়োজনগ্রস্ত মানুষদের সংযুক্ত করা হয়।"
+      },
+      "description": {
+        "en": "A client project built on WordPress using Elementor and Astra theme, designed to bring the foundation's blood donation activities online — helping anyone easily find information, request blood, and connect with the organization.",
+        "bn": "এলিমেন্টর এবং অ্যাস্ট্রা থিম ব্যবহার করে ওয়ার্ডপ্রেসে তৈরি একটি ক্লায়েন্ট প্রজেক্ট, যেখানে ফাউন্ডেশনের রক্তদান কার্যক্রম অনলাইনে ছড়িয়ে দেওয়া হয় — যাতে যে কেউ সহজেই তথ্য পায়, রক্তের জন্য আবেদন করতে পারে এবং সংগঠনের সাথে যুক্ত হতে পারে।"
+      },
+      "role": { "en": "WordPress Developer & UI Designer", "bn": "ওয়ার্ডপ্রেস ডেভেলপার ও ইউআই ডিজাইনার" },
+      "tools": ["WordPress", "Elementor", "Smart Slider 3", "Astra Theme", "WPForms", "Yoast SEO"],
+      "challenge": {
+        "en": "The foundation had no online presence. They needed a platform that could spread their donation activities beyond their local area, clearly showcase their work, and let anyone submit a blood request easily.",
+        "bn": "ফাউন্ডেশনের কোনো অনলাইন উপস্থিতি ছিল না। তাদের প্রয়োজন ছিল এমন একটি প্ল্যাটফর্ম, যা তাদের স্থানীয় এলাকার বাইরেও রক্তদান কার্যক্রম ছড়িয়ে দিতে পারবে, তাদের কাজ পরিষ্কারভাবে তুলে ধরবে এবং যে কেউ সহজে রক্তের আবেদন জমা দিতে পারবে।"
+      },
+      "approach": {
+        "en": "I started by carefully listening to the client, analyzed their needs, then built a clear roadmap of what sections to add and in what order. I collected all required resources, designed the visuals myself, and then moved step-by-step into development.",
+        "bn": "প্রথমে আমি ক্লায়েন্টের সব কথা মনোযোগ দিয়ে শুনেছি, তারপর সবকিছু বিশ্লেষণ করে একটি কাজের রোডম্যাপ তৈরি করেছি — কোন সেকশন কোন ক্রমে যোগ করব। এরপর প্রয়োজনীয় সব রিসোর্স সংগ্রহ করেছি, নিজে ডিজাইন করেছি এবং ধাপে ধাপে ডেভেলপমেন্ট শুরু করেছি।"
+      },
+      "whatIDid": {
+        "en": [
+          "Designed the foundation logo and visual identity",
+          "Built the full homepage with a custom layout",
+          "Set up a responsive hero slider using Smart Slider 3",
+          "Designed UI/UX card sections for donor actions",
+          "Created an achievements section to showcase their work",
+          "Configured WPForms for blood request and donor registration"
+        ],
+        "bn": [
+          "ফাউন্ডেশনের লোগো ও ভিজুয়াল আইডেন্টিটি ডিজাইন",
+          "কাস্টম লেআউট সহ সম্পূর্ণ হোমপেজ তৈরি",
+          "Smart Slider 3 দিয়ে রেসপনসিভ হিরো স্লাইডার সেটআপ",
+          "রক্তদাতার কার্যক্রমের জন্য UI/UX কার্ড সেকশন ডিজাইন",
+          "তাদের কাজ তুলে ধরার জন্য অর্জন সেকশন তৈরি",
+          "রক্তের আবেদন ও রক্তদাতা রেজিস্ট্রেশনের জন্য WPForms কনফিগার"
+        ]
+      },
+      "process": {
+        "en": [
+          "Client discussion and requirement gathering",
+          "Analyzing the foundation's goals and target audience",
+          "Building a clear project roadmap and section plan",
+          "Collecting resources and content from the client",
+          "Designing the layout, logo, and visual assets",
+          "WordPress development and responsive testing"
+        ],
+        "bn": [
+          "ক্লায়েন্টের সাথে আলোচনা ও রিকোয়ারমেন্ট সংগ্রহ",
+          "ফাউন্ডেশনের লক্ষ্য ও টার্গেট অডিয়েন্স বিশ্লেষণ",
+          "প্রজেক্টের রোডম্যাপ ও সেকশন প্ল্যান তৈরি",
+          "ক্লায়েন্টের কাছ থেকে রিসোর্স ও কনটেন্ট সংগ্রহ",
+          "লেআউট, লোগো ও ভিজুয়াল অ্যাসেট ডিজাইন",
+          "ওয়ার্ডপ্রেস ডেভেলপমেন্ট ও রেসপনসিভ টেস্টিং"
+        ]
+      },
+      "result": {
+        "en": "The project is currently in development on a local server. When the client reviewed the design, they were highly impressed with the clean and professional look. They appreciated the attention to detail so much that they've requested to hire me for the next phase of the project with the same level of quality.",
+        "bn": "প্রজেক্টটি বর্তমানে লোকাল সার্ভারে ডেভেলপমেন্ট পর্যায়ে আছে। ক্লায়েন্ট যখন ডিজাইনটি দেখেছেন, তখন তারা এর পরিচ্ছন্ন ও প্রফেশনাল লুক দেখে খুব impressed হয়েছেন। তারা এতটাই সন্তুষ্ট হয়েছেন যে পরের ধাপের কাজ একই মানের সাথে করার জন্য আমার সময় চেয়েছেন।"
+      },
+      "screenshots": [
+        { "src": "assets/projects/blood-donation/screenshot1.webp", "alt": "Homepage with blood donation hero slider", "caption": { "en": "Homepage with blood donation slider", "bn": "রক্তদান স্লাইডার সহ হোমপেজ" } },
+        { "src": "assets/projects/blood-donation/screenshot2.webp", "alt": "Card section with 4 main actions", "caption": { "en": "Card section with 4 main actions", "bn": "৪টি প্রধান কার্যক্রমের কার্ড সেকশন" } },
+        { "src": "assets/projects/blood-donation/screenshot3.webp", "alt": "Our achievements section", "caption": { "en": "Our achievements section", "bn": "আমাদের অর্জন সেকশন" } }
+      ]
+    },
+    {
+      "title": { "en": "WoodMart E-commerce Store", "bn": "উডমার্ট ই-কমার্স স্টোর" },
+      "mainCategory": "WordPress",
+      "category": "WooCommerce",
+      "categories": ["E-commerce", "Multi-Vendor", "Practice Project"],
+      "label": { "en": "Practice Project", "bn": "প্র্যাকটিস প্রজেক্ট" },
+      "image": "assets/projects/woodmart-shop/cover.webp",
+      "imageAlt": { "en": "WoodMart E-commerce Store homepage", "bn": "উডমার্ট ই-কমার্স স্টোরের হোমপেজ" },
+      "excerpt": {
+        "en": "A complete multi-vendor WooCommerce store built with WoodMart theme — featuring product listings, vendor management, affiliate system, and full payment integration.",
+        "bn": "উডমার্ট থিম দিয়ে তৈরি একটি সম্পূর্ণ মাল্টি-ভেন্ডর উকমার্স স্টোর — যেখানে প্রোডাক্ট লিস্টিং, ভেন্ডর ম্যানেজমেন্ট, অ্যাফিলিয়েট সিস্টেম এবং সম্পূর্ণ পেমেন্ট ইন্টিগ্রেশন রয়েছে।"
+      },
+      "description": {
+        "en": "A self-driven practice project where I built a complete e-commerce store from scratch — covering everything a real online shop needs, from product pages and vendor systems to payment gateways and SEO optimization. This project became my first major hands-on journey into real WordPress e-commerce development.",
+        "bn": "একটি স্ব-উদ্যোগে করা প্র্যাকটিস প্রজেক্ট, যেখানে আমি শূন্য থেকে একটি সম্পূর্ণ ই-কমার্স স্টোর তৈরি করেছি — প্রোডাক্ট পেজ, ভেন্ডর সিস্টেম, পেমেন্ট গেটওয়ে থেকে শুরু করে SEO অপ্টিমাইজেশন পর্যন্ত একটি রিয়েল অনলাইন শপের যা যা দরকার সবকিছু। এই প্রজেক্টটিই আমার প্রথম বড় হাতে-কলমে ওয়ার্ডপ্রেস ই-কমার্স ডেভেলপমেন্ট যাত্রা হয়ে উঠেছিল।"
+      },
+      "role": { "en": "WordPress & WooCommerce Developer", "bn": "ওয়ার্ডপ্রেস ও উকমার্স ডেভেলপার" },
+      "tools": ["WordPress", "WooCommerce", "WoodMart Theme", "Dokan", "Elementor", "WPForms", "Yoast SEO", "LiteSpeed Cache"],
+      "challenge": {
+        "en": "The goal was to build a fully functional e-commerce store that mirrors a real online business — with multiple vendors, affiliates, secure payments, and everything working seamlessly. As my very first major project, every feature brought its own learning curve and technical challenge.",
+        "bn": "লক্ষ্য ছিল এমন একটি সম্পূর্ণ কার্যকর ই-কমার্স স্টোর তৈরি করা, যা একটি রিয়েল অনলাইন ব্যবসার মতোই কাজ করে — মাল্টিপল ভেন্ডর, অ্যাফিলিয়েট, সিকিউর পেমেন্ট এবং সবকিছু নির্ভুলভাবে পরিচালিত। আমার প্রথম বড় প্রজেক্ট হিসেবে প্রতিটি ফিচার নিজস্ব চ্যালেঞ্জ ও শেখার সুযোগ নিয়ে এসেছিল।"
+      },
+      "approach": {
+        "en": "I began by studying other successful e-commerce websites to understand what features they offer. Then I built a detailed roadmap, analyzed each requirement, collected the necessary resources, and implemented every feature one by one — testing and refining each step before moving to the next.",
+        "bn": "প্রথমে আমি অন্যান্য সফল ই-কমার্স ওয়েবসাইটগুলো ভালোভাবে পর্যবেক্ষণ করি — তারা কী কী ফিচার অফার করে সেটা বোঝার জন্য। এরপর একটি বিস্তারিত রোডম্যাপ তৈরি করি, প্রতিটি রিকোয়ারমেন্ট বিশ্লেষণ করি, প্রয়োজনীয় রিসোর্স সংগ্রহ করি এবং একটার পর একটা ফিচার ইমপ্লিমেন্ট করি।"
+      },
+      "whatIDid": {
+        "en": [
+          "Built the complete homepage with WoodMart theme and Elementor",
+          "Designed and configured individual product pages and category layouts",
+          "Set up multi-vendor system using Dokan plugin",
+          "Integrated affiliate marketing system with tracking",
+          "Configured secure payment gateways for smooth checkout",
+          "Built cart, checkout, and order management flow",
+          "Optimized site performance using LiteSpeed Cache",
+          "Set up complete on-page SEO structure with Yoast SEO"
+        ],
+        "bn": [
+          "উডমার্ট থিম ও এলিমেন্টর দিয়ে সম্পূর্ণ হোমপেজ তৈরি",
+          "আলাদা প্রোডাক্ট পেজ ও ক্যাটাগরি লেআউট ডিজাইন ও কনফিগার",
+          "Dokan প্লাগইন দিয়ে মাল্টি-ভেন্ডর সিস্টেম সেটআপ",
+          "ট্র্যাকিং সহ অ্যাফিলিয়েট মার্কেটিং সিস্টেম ইন্টিগ্রেশন",
+          "স্মুথ চেকআউটের জন্য সিকিউর পেমেন্ট গেটওয়ে কনফিগার",
+          "কার্ট, চেকআউট এবং অর্ডার ম্যানেজমেন্ট ফ্লো তৈরি",
+          "LiteSpeed Cache দিয়ে সাইটের পারফরম্যান্স অপ্টিমাইজ",
+          "Yoast SEO দিয়ে সম্পূর্ণ অন-পেজ SEO স্ট্রাকচার সেটআপ"
+        ]
+      },
+      "process": {
+        "en": [
+          "Built a detailed roadmap covering all required e-commerce features",
+          "Analyzed the structure of successful e-commerce websites",
+          "Collected necessary resources, plugins, and content",
+          "Installed and configured WoodMart theme with WooCommerce",
+          "Implemented features step by step — vendor, affiliate, payment, cart",
+          "Tested each feature, troubleshot issues, and optimized performance"
+        ],
+        "bn": [
+          "সব প্রয়োজনীয় ই-কমার্স ফিচার কভার করে একটি বিস্তারিত রোডম্যাপ তৈরি",
+          "সফল ই-কমার্স ওয়েবসাইটগুলোর স্ট্রাকচার বিশ্লেষণ",
+          "প্রয়োজনীয় রিসোর্স, প্লাগইন ও কনটেন্ট সংগ্রহ",
+          "উডমার্ট থিম ও উকমার্স ইনস্টল এবং কনফিগার",
+          "ধাপে ধাপে ফিচার ইমপ্লিমেন্ট — ভেন্ডর, অ্যাফিলিয়েট, পেমেন্ট, কার্ট",
+          "প্রতিটি ফিচার টেস্ট, সমস্যা সমাধান এবং পারফরম্যান্স অপ্টিমাইজ"
+        ]
+      },
+      "result": {
+        "en": "This was my first major project in web development, and it taught me far more than any tutorial could. There were challenges where a single issue took 2-3 days to solve — I researched, took guidance from my instructors, and pushed through until I found the solution. Every time I cracked a problem, the joy I felt deepened my passion for this field. It became clear to me that web development is where I truly belong.",
+        "bn": "এটি ছিল ওয়েব ডেভেলপমেন্টে আমার প্রথম বড় প্রজেক্ট, আর এটি যেকোনো টিউটোরিয়ালের চেয়ে অনেক বেশি শিখিয়েছে। এমন চ্যালেঞ্জ ছিল যেখানে একটি সমস্যা সমাধান করতে ২-৩ দিন লেগে যেত — আমি রিসার্চ করেছি, শিক্ষকের কাছ থেকে গাইডেন্স নিয়েছি এবং সমাধান পাওয়া পর্যন্ত চেষ্টা চালিয়ে গেছি। প্রতিবার সমস্যার সমাধান করতে পারলে যে আনন্দ পেতাম, সেটা এই ফিল্ডের প্রতি আমার ভালোবাসা আরও গভীর করে দিয়েছে। তখনই পরিষ্কার হয়ে গেছে যে ওয়েব ডেভেলপমেন্টই আমার আসল জায়গা।"
+      },
+      "screenshots": [
+        { "src": "assets/projects/woodmart-shop/screenshot1.webp", "alt": "WoodMart homepage second view", "caption": { "en": "Homepage — featured product showcase", "bn": "হোমপেজ — ফিচারড প্রোডাক্ট শোকেস" } },
+        { "src": "assets/projects/woodmart-shop/screenshot2.webp", "alt": "WoodMart store footer section", "caption": { "en": "Footer with categories and customer care", "bn": "ক্যাটাগরি ও কাস্টমার কেয়ার সহ ফুটার" } }
+      ]
+    },
+    {
+      "title": { "en": "Paradox Free Stock Images", "bn": "প্যারাডক্স ফ্রি স্টক ইমেজ" },
+      "mainCategory": "Web Development",
+      "category": "Blogger",
+      "categories": ["Custom Theme", "AI-Assisted", "Personal Project"],
+      "label": { "en": "Personal Project", "bn": "ব্যক্তিগত প্রজেক্ট" },
+      "image": "assets/projects/paradox-stock/cover.webp",
+      "imageAlt": { "en": "Paradox Free Stock Images homepage", "bn": "প্যারাডক্স ফ্রি স্টক ইমেজের হোমপেজ" },
+      "excerpt": {
+        "en": "A free stock image platform built on Blogger with a fully custom-coded theme — offering high-resolution images for anyone who needs them for personal or commercial use.",
+        "bn": "ব্লগার প্ল্যাটফর্মে সম্পূর্ণ কাস্টম-কোডেড থিম দিয়ে তৈরি একটি ফ্রি স্টক ইমেজ প্ল্যাটফর্ম — যেখানে যে কেউ তাদের ব্যক্তিগত বা কমার্শিয়াল কাজের জন্য হাই-রেজোলিউশন ইমেজ ডাউনলোড করতে পারে।"
+      },
+      "description": {
+        "en": "A personal project created to help creators who cannot afford expensive stock photos. I publish high-resolution commercial-use images for free, so anyone can download and use them in their work without worrying about cost. The entire theme was coded using HTML, CSS, and JavaScript — with AI tools assisting the development process.",
+        "bn": "একটি ব্যক্তিগত প্রজেক্ট, যা তাদের জন্য তৈরি করেছি যারা দামি স্টক ফটো কিনতে পারেন না। আমি বিনামূল্যে হাই-রেজোলিউশন কমার্শিয়াল-ইউজ ইমেজ পাবলিশ করি, যাতে যে কেউ খরচের চিন্তা ছাড়াই এগুলো ডাউনলোড করে নিজের কাজে ব্যবহার করতে পারে। সম্পূর্ণ থিমটি HTML, CSS এবং JavaScript দিয়ে কোড করা — যেখানে AI টুলস ডেভেলপমেন্ট প্রসেসে সহায়তা করেছে।"
+      },
+      "role": { "en": "Web Designer & Developer", "bn": "ওয়েব ডিজাইনার ও ডেভেলপার" },
+      "tools": ["Blogger Platform", "HTML", "CSS", "JavaScript", "ChatGPT", "DeepSeek", "Cloud AI"],
+      "challenge": {
+        "en": "Many talented creators cannot afford paid stock images. The challenge was to build a free alternative that offers high-quality, commercial-use images — while coding a fully custom theme from scratch on the Blogger platform as my very first coding-based website.",
+        "bn": "অনেক প্রতিভাবান ক্রিয়েটর দামি স্টক ইমেজ কিনতে পারেন না। চ্যালেঞ্জ ছিল এমন একটি ফ্রি বিকল্প তৈরি করা, যেখানে হাই-কোয়ালিটি কমার্শিয়াল-ইউজ ইমেজ পাওয়া যায় — সেই সাথে ব্লগার প্ল্যাটফর্মে শূন্য থেকে সম্পূর্ণ কাস্টম থিম কোড করা, যা ছিল আমার প্রথম কোডিং-ভিত্তিক ওয়েবসাইট।"
+      },
+      "approach": {
+        "en": "I studied popular stock image websites to understand their layout and category systems. Then I built a custom theme using AI-assisted coding, customized it entirely with my own content and design choices, and followed a clear roadmap from planning to launch.",
+        "bn": "আমি জনপ্রিয় স্টক ইমেজ ওয়েবসাইটগুলো অধ্যয়ন করি — তাদের লেআউট ও ক্যাটাগরি সিস্টেম বুঝতে। এরপর AI-সহায়ক কোডিং ব্যবহার করে একটি কাস্টম থিম তৈরি করি, নিজের কনটেন্ট ও ডিজাইন চয়েস দিয়ে সম্পূর্ণ কাস্টমাইজ করি এবং প্ল্যানিং থেকে লঞ্চ পর্যন্ত একটি স্পষ্ট রোডম্যাপ ফলো করি।"
+      },
+      "whatIDid": {
+        "en": [
+          "Designed and developed a fully custom theme on Blogger platform",
+          "Built a category-based browsing system for easy image discovery",
+          "Created a custom post layout optimized for image content",
+          "Designed a responsive footer with navigation and info sections",
+          "Set up complete on-page SEO structure for better discoverability",
+          "Published a growing library of curated high-resolution stock images",
+          "Customized every element using HTML, CSS, and JavaScript"
+        ],
+        "bn": [
+          "ব্লগার প্ল্যাটফর্মে সম্পূর্ণ কাস্টম থিম ডিজাইন ও ডেভেলপ",
+          "সহজে ইমেজ খুঁজে পাওয়ার জন্য ক্যাটাগরি-ভিত্তিক ব্রাউজিং সিস্টেম",
+          "ইমেজ কনটেন্টের জন্য অপ্টিমাইজড কাস্টম পোস্ট লেআউট তৈরি",
+          "নেভিগেশন ও ইনফো সেকশন সহ রেসপনসিভ ফুটার ডিজাইন",
+          "বেটার ডিসকভারেবিলিটির জন্য সম্পূর্ণ অন-পেজ SEO স্ট্রাকচার সেটআপ",
+          "বাছাই করা হাই-রেজোলিউশন স্টক ইমেজের একটি বর্ধনশীল লাইব্রেরি প্রকাশ",
+          "HTML, CSS এবং JavaScript দিয়ে প্রতিটি এলিমেন্ট কাস্টমাইজ"
+        ]
+      },
+      "process": {
+        "en": [
+          "Analyzed popular stock image websites for layout and features",
+          "Built a clear roadmap for the site structure and category system",
+          "Developed the custom theme with AI-assisted coding",
+          "Added personal content and customized the design",
+          "Published high-resolution images and organized categories",
+          "Tested, troubleshot, and refined the final site"
+        ],
+        "bn": [
+          "জনপ্রিয় স্টক ইমেজ ওয়েবসাইটগুলোর লেআউট ও ফিচার বিশ্লেষণ",
+          "সাইট স্ট্রাকচার ও ক্যাটাগরি সিস্টেমের জন্য একটি স্পষ্ট রোডম্যাপ তৈরি",
+          "AI-সহায়ক কোডিং দিয়ে কাস্টম থিম ডেভেলপ",
+          "নিজের কনটেন্ট যোগ ও ডিজাইন কাস্টমাইজ",
+          "হাই-রেজোলিউশন ইমেজ প্রকাশ ও ক্যাটাগরি সাজানো",
+          "টেস্টিং, সমস্যা সমাধান এবং চূড়ান্ত সাইট রিফাইন"
+        ]
+      },
+      "result": {
+        "en": "The site is live and gaining visitors steadily. As my first ever coding-based website, it came with many challenges — but every problem taught me something new. I researched, learned, and solved each issue one by one. Today, Paradox Free Stock Images serves as a free resource where anyone can download high-quality images for their creative work — and that is exactly what I hoped it would become.",
+        "bn": "সাইটটি লাইভ এবং ধীরে ধীরে ভিজিটর বাড়ছে। আমার প্রথম কোডিং-ভিত্তিক ওয়েবসাইট হিসেবে এতে অনেক চ্যালেঞ্জ ছিল — কিন্তু প্রতিটি সমস্যা আমাকে নতুন কিছু শিখিয়েছে। আমি রিসার্চ করেছি, শিখেছি এবং একটার পর একটা সমস্যা সমাধান করেছি। আজ Paradox Free Stock Images একটি ফ্রি রিসোর্স হিসেবে কাজ করছে, যেখানে যে কেউ তাদের ক্রিয়েটিভ কাজের জন্য হাই-কোয়ালিটি ইমেজ ডাউনলোড করতে পারে — এবং এটাই আমার প্রত্যাশা ছিল।"
+      },
+      "liveUrl": "https://paradoxstock.blogspot.com/",
+      "screenshots": [
+        { "src": "assets/projects/paradox-stock/screenshot1.webp", "alt": "Category browsing page", "caption": { "en": "Category browsing page", "bn": "ক্যাটাগরি ব্রাউজিং পেজ" } },
+        { "src": "assets/projects/paradox-stock/screenshot2.webp", "alt": "About Us page", "caption": { "en": "About Us page", "bn": "আমাদের সম্পর্কে পেজ" } },
+        { "src": "assets/projects/paradox-stock/screenshot3.webp", "alt": "Image post with download option", "caption": { "en": "Image post with download option", "bn": "ডাউনলোড অপশন সহ ইমেজ পোস্ট" } },
+        { "src": "assets/projects/paradox-stock/screenshot4.webp", "alt": "Custom designed footer", "caption": { "en": "Custom designed footer", "bn": "কাস্টম ডিজাইন করা ফুটার" } }
+      ]
+    },
+        {
+      "title": { "en": "Paradox Diary", "bn": "প্যারাডক্স ডায়েরি" },
+      "mainCategory": "Web Development",
+      "category": "Blogger",
+      "categories": ["Blogger", "Personal Project", "Custom Theme", "AI-Assisted"],
+      "label": { "en": "Personal Blog", "bn": "ব্যক্তিগত ব্লগ" },
+      "image": "assets/projects/paradox-diary/cover.webp",
+      "imageAlt": { "en": "Paradox Diary homepage", "bn": "প্যারাডক্স ডায়েরির হোমপেজ" },
+      "excerpt": {
+        "en": "A personal knowledge blog exploring the mysteries of history, the unknown world, space and science — written to spread accurate information and break common misconceptions.",
+        "bn": "ইতিহাসের রহস্য, অজানা পৃথিবী, মহাকাশ ও বিজ্ঞান নিয়ে একটি ব্যক্তিগত জ্ঞান-ভিত্তিক ব্লগ — সঠিক তথ্য ছড়িয়ে দিতে এবং প্রচলিত ভুল ধারণা ভাঙতে লেখা।"
+      },
+      "description": {
+        "en": "A personal blog built on Blogger with a fully custom-designed theme. Every article is carefully researched from authentic sources to give readers accurate and reliable information about the mysterious and unknown aspects of our world — from ancient history to the depths of space.",
+        "bn": "ব্লগার প্ল্যাটফর্মে সম্পূর্ণ কাস্টম-ডিজাইন করা থিম দিয়ে তৈরি একটি ব্যক্তিগত ব্লগ। প্রতিটি লেখা অথেনটিক সোর্স থেকে সতর্কভাবে রিসার্চ করা, যাতে পাঠকরা আমাদের পৃথিবীর রহস্যময় ও অজানা দিকগুলো সম্পর্কে — প্রাচীন ইতিহাস থেকে মহাকাশের গভীরতা পর্যন্ত — সঠিক ও নির্ভরযোগ্য তথ্য পায়।"
+      },
+      "role": { "en": "Blog Designer, Developer & Content Writer", "bn": "ব্লগ ডিজাইনার, ডেভেলপার ও কনটেন্ট রাইটার" },
+      "tools": ["Blogger Platform", "HTML", "CSS", "JavaScript", "ChatGPT", "Claude", "DeepSeek"],
+      "challenge": {
+        "en": "The internet is full of misleading information and popular misconceptions. The challenge was to create a blog that carefully filters out misinformation and presents only accurately researched content — while also being visually appealing enough to keep readers engaged.",
+        "bn": "ইন্টারনেট ভুল তথ্য ও প্রচলিত ভুল ধারণায় ভরা। চ্যালেঞ্জ ছিল এমন একটি ব্লগ তৈরি করা, যা ভুল তথ্য সতর্কভাবে ছেঁকে ফেলে এবং কেবল নির্ভুলভাবে রিসার্চ করা কনটেন্ট উপস্থাপন করে — সেই সাথে পাঠকদের ধরে রাখার মতো দৃষ্টিনন্দনও হতে হবে।"
+      },
+      "approach": {
+        "en": "Every topic is carefully selected based on how mysterious or misunderstood it is. I research from authentic sources, collect accurate images, structure the content thoughtfully, and design each post to make learning both enjoyable and reliable. A full SEO checklist is followed before every publish.",
+        "bn": "প্রতিটি টপিক সতর্কভাবে বাছাই করা হয় — কোনটা কতটা রহস্যময় বা ভুলভাবে বোঝা। আমি অথেনটিক সোর্স থেকে রিসার্চ করি, নির্ভুল ইমেজ সংগ্রহ করি, কনটেন্ট সুচিন্তিতভাবে সাজাই এবং প্রতিটি পোস্ট এমনভাবে ডিজাইন করি যাতে শেখাটা আনন্দদায়ক ও নির্ভরযোগ্য হয়। প্রতিটি প্রকাশের আগে সম্পূর্ণ SEO চেকলিস্ট ফলো করা হয়।"
+      },
+      "whatIDid": {
+        "en": [
+          "Designed and developed a fully custom theme on Blogger platform",
+          "Created a clean and readable post layout for long-form content",
+          "Built a custom content section design for better readability",
+          "Designed a responsive footer with organized navigation",
+          "Applied complete on-page SEO structure to every post",
+          "Curated accurate content and verified images from authentic sources",
+          "Customized every visual element to match the blog's identity"
+        ],
+        "bn": [
+          "ব্লগার প্ল্যাটফর্মে সম্পূর্ণ কাস্টম থিম ডিজাইন ও ডেভেলপ",
+          "লং-ফর্ম কনটেন্টের জন্য পরিচ্ছন্ন ও পাঠযোগ্য পোস্ট লেআউট",
+          "বেটার রিডেবিলিটির জন্য কাস্টম কনটেন্ট সেকশন ডিজাইন",
+          "সংগঠিত নেভিগেশন সহ রেসপনসিভ ফুটার ডিজাইন",
+          "প্রতিটি পোস্টে সম্পূর্ণ অন-পেজ SEO স্ট্রাকচার প্রয়োগ",
+          "অথেনটিক সোর্স থেকে নির্ভুল কনটেন্ট ও ভেরিফাইড ইমেজ সংগ্রহ",
+          "ব্লগের পরিচয়ের সাথে মিলিয়ে প্রতিটি ভিজ্যুয়াল এলিমেন্ট কাস্টমাইজ"
+        ]
+      },
+      "process": {
+        "en": [
+          "Selected mysterious and misunderstood topics through deep research",
+          "Visited authentic sources and gathered accurate information",
+          "Collected verified images and structured the content carefully",
+          "Designed the layout and wrote the custom code with AI assistance",
+          "Applied the full SEO checklist to every published post",
+          "Polished the final presentation before publishing each article"
+        ],
+        "bn": [
+          "গভীর রিসার্চের মাধ্যমে রহস্যময় ও ভুলভাবে বোঝা টপিক নির্বাচন",
+          "অথেনটিক সোর্স ভিজিট করে নির্ভুল তথ্য সংগ্রহ",
+          "ভেরিফাইড ইমেজ সংগ্রহ ও কনটেন্ট সতর্কভাবে সাজানো",
+          "AI সহায়তায় লেআউট ডিজাইন ও কাস্টম কোড লেখা",
+          "প্রতিটি প্রকাশিত পোস্টে সম্পূর্ণ SEO চেকলিস্ট প্রয়োগ",
+          "প্রতিটি লেখা প্রকাশের আগে চূড়ান্ত উপস্থাপনা পলিশ করা"
+        ]
+      },
+      "result": {
+        "en": "The blog is live and being actively promoted. Readers have shared very positive feedback — they love the clean design and how well the content is organized. Many have said that reading one post leads them to another, and their appreciation has become the strongest motivation for me to keep creating high-quality content. The effort I put into every article is clearly being rewarded.",
+        "bn": "ব্লগটি লাইভ এবং সক্রিয়ভাবে প্রচার করা হচ্ছে। পাঠকরা খুব ইতিবাচক ফিডব্যাক দিয়েছেন — তারা পরিষ্কার ডিজাইন এবং কনটেন্ট কত সুন্দরভাবে সাজানো হয়েছে সেটা পছন্দ করেছেন। অনেকে বলেছেন একটি পোস্ট পড়লে তারা পরের পোস্টে চলে যান, আর তাদের এই ভালোবাসাই আমাকে আরও উচ্চমানের কনটেন্ট তৈরি করতে অনুপ্রাণিত করছে। প্রতিটি লেখায় আমার যে পরিশ্রম, সেটার সার্থকতা স্পষ্টভাবে পাচ্ছি।"
+      },
+      "liveUrl": "https://paradoxdiarybd.blogspot.com/",
+      "screenshots": [
+        {
+          "src": "assets/projects/paradox-diary/screenshot1.webp",
+          "alt": "Blog content upper section",
+          "caption": {
+            "en": "Blog content — upper section",
+            "bn": "ব্লগ কনটেন্ট — উপরের অংশ"
+          }
+        },
+        {
+          "src": "assets/projects/paradox-diary/screenshot2.webp",
+          "alt": "Blog content middle section",
+          "caption": {
+            "en": "Blog content — middle section",
+            "bn": "ব্লগ কনটেন্ট — মাঝের অংশ"
+          }
+        },
+        {
+          "src": "assets/projects/paradox-diary/screenshot3.webp",
+          "alt": "Blog content lower section",
+          "caption": {
+            "en": "Blog content — lower section",
+            "bn": "ব্লগ কনটেন্ট — নিচের অংশ"
+          }
+        }
+      ]
+    },
+        {
+      "title": { "en": "Complete SEO Toolkit", "bn": "কমপ্লিট এসইও টুলকিট" },
+      "mainCategory": "SEO",
+      "category": "SEO",
+      "categories": ["On-Page SEO", "Technical SEO", "Off-Page SEO", "Keyword Research", "SEO Audit"],
+      "label": { "en": "SEO Work", "bn": "এসইও কাজ" },
+      "image": "assets/projects/seo-works/cover.webp",
+      "imageAlt": { "en": "Complete SEO Toolkit checklists", "bn": "কমপ্লিট এসইও টুলকিটের চেকলিস্ট" },
+      "excerpt": {
+        "en": "A comprehensive collection of SEO checklists — On-Page, Technical, Off-Page, Keyword Research and full SEO Audit — built from real client work and continuous research.",
+        "bn": "অন-পেজ, টেকনিক্যাল, অফ-পেজ, কিওয়ার্ড রিসার্চ এবং সম্পূর্ণ এসইও অডিট সহ একটি বিস্তৃত এসইও চেকলিস্ট কালেকশন — যা বাস্তব ক্লায়েন্ট কাজ ও ধারাবাহিক রিসার্চ থেকে তৈরি।"
+      },
+      "description": {
+        "en": "Every time I work on a client's website, I follow a structured SEO process. Over time, I documented every step into reusable checklists covering On-Page, Technical, Off-Page, Local SEO, Keyword Research and complete SEO Audits. This toolkit helps me audit any website systematically, identify what's missing, and optimize it for real ranking results — backed by professional tools like Ahrefs, Google Search Console, Google PageSpeed Insights and more.",
+        "bn": "প্রতিবার যখন কোনো ক্লায়েন্টের ওয়েবসাইটে কাজ করি, তখন আমি একটি সুনির্দিষ্ট SEO প্রসেস ফলো করি। সময়ের সাথে সাথে আমি প্রতিটি ধাপকে পুনরায় ব্যবহারযোগ্য চেকলিস্টে রূপ দিয়েছি — যেখানে আছে অন-পেজ, টেকনিক্যাল, অফ-পেজ, লোকাল SEO, কিওয়ার্ড রিসার্চ এবং সম্পূর্ণ SEO অডিট। এই টুলকিট আমাকে যেকোনো ওয়েবসাইট পদ্ধতিগতভাবে অডিট করতে, কী কী অনুপস্থিত তা চিহ্নিত করতে এবং সত্যিকারের র্যাঙ্কিং ফলাফলের জন্য অপ্টিমাইজ করতে সাহায্য করে — Ahrefs, Google Search Console, Google PageSpeed Insights এর মতো প্রফেশনাল টুলের সাপোর্টে।"
+      },
+      "role": { "en": "SEO Specialist & Website Auditor", "bn": "এসইও স্পেশালিস্ট ও ওয়েবসাইট অডিটর" },
+      "tools": ["Ahrefs", "Google Search Console", "Ubersuggest", "Yoast SEO", "Google PageSpeed Insights", "SSL Labs", "WordStream", "Social Signal Checker", "Orbink"],
+      "challenge": {
+        "en": "SEO involves hundreds of small details — missing even one can hold a website back from ranking. The challenge was to build a complete, reusable system that covers every important SEO factor, so no client's website misses a critical step during optimization.",
+        "bn": "SEO তে শত শত ছোট ছোট বিষয় থাকে — একটা বাদ পড়লেও ওয়েবসাইট র‍্যাঙ্ক করতে পারে না। চ্যালেঞ্জ ছিল এমন একটি সম্পূর্ণ ও পুনরায় ব্যবহারযোগ্য সিস্টেম তৈরি করা, যা প্রতিটি গুরুত্বপূর্ণ SEO ফ্যাক্টর কভার করে — যাতে অপ্টিমাইজেশনের সময় কোনো ক্লায়েন্টের সাইটে কোনো গুরুত্বপূর্ণ ধাপ বাদ না পড়ে।"
+      },
+      "approach": {
+        "en": "I studied how top-ranking websites structure their SEO. Then, from real client projects, I documented every audit and optimization step into clear checklists. Whenever a new client project arrives, I customize these checklists to fit the specific website — ensuring nothing is missed and everything is properly optimized.",
+        "bn": "টপ-র‍্যাঙ্কিং ওয়েবসাইটগুলো কীভাবে তাদের SEO সাজায় তা আমি গভীরভাবে অধ্যয়ন করেছি। এরপর বাস্তব ক্লায়েন্ট প্রজেক্ট থেকে প্রতিটি অডিট ও অপ্টিমাইজেশন ধাপ স্পষ্ট চেকলিস্টে লিপিবদ্ধ করেছি। নতুন কোনো ক্লায়েন্ট প্রজেক্ট এলে এই চেকলিস্টগুলো সেই নির্দিষ্ট ওয়েবসাইট অনুযায়ী কাস্টমাইজ করি — যাতে কোনো কিছু বাদ না পড়ে এবং সবকিছু ঠিকভাবে অপ্টিমাইজ হয়।"
+      },
+      "whatIDid": {
+        "en": [
+          "Built a complete On-Page SEO checklist (title, meta, headings, alt tags, internal linking)",
+          "Created a Technical SEO checklist (site speed, sitemap, robots.txt, mobile-friendliness, SSL)",
+          "Documented an Off-Page SEO & Backlink checklist with quality DA/PA criteria",
+          "Developed a Keyword Research framework (search volume, competition, long-tail)",
+          "Prepared a full SEO Audit template for client websites",
+          "Applied all checklists in real client projects and delivered measurable results",
+          "Completed 100+ backlinks for a client's online store with proper anchor text",
+          "Performed complete keyword research and ranking strategy for real clients"
+        ],
+        "bn": [
+          "সম্পূর্ণ অন-পেজ SEO চেকলিস্ট তৈরি (টাইটেল, মেটা, হেডিং, অল্ট ট্যাগ, ইন্টারনাল লিংকিং)",
+          "টেকনিক্যাল SEO চেকলিস্ট তৈরি (সাইট স্পিড, সাইটম্যাপ, robots.txt, মোবাইল-ফ্রেন্ডলিনেস, SSL)",
+          "কোয়ালিটি DA/PA ক্রাইটেরিয়া সহ অফ-পেজ SEO ও ব্যাকলিংক চেকলিস্ট",
+          "কিওয়ার্ড রিসার্চ ফ্রেমওয়ার্ক তৈরি (সার্চ ভলিউম, কম্পিটিশন, লং-টেইল)",
+          "ক্লায়েন্ট ওয়েবসাইটের জন্য সম্পূর্ণ SEO অডিট টেমপ্লেট প্রস্তুত",
+          "বাস্তব ক্লায়েন্ট প্রজেক্টে সব চেকলিস্ট প্রয়োগ করে মেজারেবল ফলাফল অর্জন",
+          "একজন ক্লায়েন্টের অনলাইন স্টোরের জন্য সঠিক অ্যাঙ্কর টেক্সট সহ ১০০+ ব্যাকলিংক সম্পন্ন",
+          "বাস্তব ক্লায়েন্টের জন্য সম্পূর্ণ কিওয়ার্ড রিসার্চ ও র‍্যাঙ্কিং স্ট্র্যাটেজি সম্পন্ন"
+        ]
+      },
+      "process": {
+        "en": [
+          "Researched how top-ranking websites handle every aspect of SEO",
+          "Audited dozens of client and practice websites to identify common issues",
+          "Documented each finding into organized, reusable checklists",
+          "Covered all areas: On-Page, Off-Page, Technical, Local and Keyword Research",
+          "Customized each checklist for every new client website",
+          "Applied the checklist step by step — audit, fix, optimize, verify",
+          "Delivered ranking improvements, indexing, and 100+ backlinks for a client"
+        ],
+        "bn": [
+          "টপ-র‍্যাঙ্কিং ওয়েবসাইটগুলো কীভাবে SEO এর প্রতিটি দিক সামলায় তা রিসার্চ করা",
+          "সাধারণ সমস্যাগুলো চিহ্নিত করতে ডজনখানেক ক্লায়েন্ট ও প্র্যাকটিস সাইট অডিট",
+          "প্রতিটি ফলাফলকে সংগঠিত ও পুনরায় ব্যবহারযোগ্য চেকলিস্টে লিপিবদ্ধ করা",
+          "সব ক্ষেত্র কভার করা: অন-পেজ, অফ-পেজ, টেকনিক্যাল, লোকাল ও কিওয়ার্ড রিসার্চ",
+          "প্রতিটি নতুন ক্লায়েন্ট সাইটের জন্য চেকলিস্ট কাস্টমাইজ করা",
+          "ধাপে ধাপে চেকলিস্ট প্রয়োগ — অডিট, ফিক্স, অপ্টিমাইজ, ভেরিফাই",
+          "একজন ক্লায়েন্টের জন্য র‍্যাঙ্কিং উন্নতি, ইনডেক্সিং এবং ১০০+ ব্যাকলিংক সরবরাহ"
+        ]
+      },
+      "result": {
+        "en": "This toolkit has become the backbone of my SEO workflow. Using these checklists, I successfully completed SEO for a client's online store — they were extremely satisfied with the results. I delivered 100+ quality backlinks, completed full keyword research, and improved the website's ranking and indexing. Most importantly, this system means I can now audit any website quickly and confidently, knowing exactly what to check and how to fix it.",
+        "bn": "এই টুলকিটই আমার SEO কর্মপ্রবাহের মেরুদণ্ড হয়ে দাঁড়িয়েছে। এই চেকলিস্টগুলো ব্যবহার করে আমি সফলভাবে একজন ক্লায়েন্টের অনলাইন স্টোরের SEO সম্পন্ন করেছি — ফলাফলে তারা অত্যন্ত সন্তুষ্ট হয়েছেন। আমি ১০০+ কোয়ালিটি ব্যাকলিংক সরবরাহ করেছি, সম্পূর্ণ কিওয়ার্ড রিসার্চ করেছি এবং ওয়েবসাইটের র‍্যাঙ্কিং ও ইনডেক্সিং উন্নত করেছি। সবচেয়ে গুরুত্বপূর্ণ হলো, এই সিস্টেমের কারণে আমি এখন যেকোনো ওয়েবসাইট দ্রুত এবং আত্মবিশ্বাসের সাথে অডিট করতে পারি — ঠিক কী চেক করতে হবে এবং কীভাবে ঠিক করতে হবে সেটা জেনে।"
+      },
+      "screenshots": [
+        {
+          "src": "assets/projects/seo-works/onpage.webp",
+          "alt": "On-Page SEO Checklist",
+          "caption": {
+            "en": "On-Page SEO Checklist",
+            "bn": "অন-পেজ এসইও চেকলিস্ট"
+          }
+        },
+        {
+          "src": "assets/projects/seo-works/technical.webp",
+          "alt": "Technical SEO Checklist",
+          "caption": {
+            "en": "Technical SEO Checklist",
+            "bn": "টেকনিক্যাল এসইও চেকলিস্ট"
+          }
+        },
+        {
+          "src": "assets/projects/seo-works/backlink.webp",
+          "alt": "Backlink & Off-Page SEO Checklist",
+          "caption": {
+            "en": "Backlink & Off-Page SEO Checklist",
+            "bn": "ব্যাকলিংক ও অফ-পেজ এসইও চেকলিস্ট"
+          }
+        },
+        {
+          "src": "assets/projects/seo-works/keyword.webp",
+          "alt": "Keyword Research Framework",
+          "caption": {
+            "en": "Keyword Research Framework",
+            "bn": "কিওয়ার্ড রিসার্চ ফ্রেমওয়ার্ক"
+          }
+        },
+        {
+          "src": "assets/projects/seo-works/audit.webp",
+          "alt": "Complete SEO Audit Template",
+          "caption": {
+            "en": "Complete SEO Audit Template",
+            "bn": "সম্পূর্ণ এসইও অডিট টেমপ্লেট"
+          }
+        }
+      ]
+    }
+
+
+  ]
+}

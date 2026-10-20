@@ -1,0 +1,14 @@
+{
+  "title": "Your Article Title",
+  "slug": "your-article-title",
+  "category": "WordPress",
+  "date": "2026-09-08",
+  "image": "assets/blog/your-article.jpg",
+  "imageAlt": "Descriptive article cover",
+  "excerpt": "A short search-friendly summary of the article.",
+  "content": [
+    "Write your first paragraph here.",
+    "Write your second paragraph here.",
+    "Continue the article one paragraph at a time."
+  ]
+}

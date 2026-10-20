@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>404 | A Farjan Paradox</title>
+<link rel="icon" type="image/png" href="./assets/Image6.png">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<style>
+:root{--bg:#0A0A12;--p:#7A22A7;--p2:#b266ff;--c:#00D4E6;--mut:#8b93a7;--mx:0;--my:0}
+body.mirror{--p:#00D4E6;--p2:#5fe9f5;--c:#7A22A7}
+*{box-sizing:border-box;margin:0;padding:0}
+[hidden]{display:none!important}
+body{background:var(--bg);color:#e8ecf4;font-family:Inter,system-ui,sans-serif;overflow-x:hidden}
+#fx{position:fixed;inset:0;width:100%;height:100%;z-index:0}
+.vig{position:fixed;inset:0;z-index:1;pointer-events:none;background:radial-gradient(ellipse at center,transparent 35%,rgba(5,5,10,.88) 100%)}
+.scan{position:fixed;inset:0;z-index:2;pointer-events:none;overflow:hidden;opacity:.4;background:repeating-linear-gradient(to bottom,transparent 0 2px,rgba(0,0,0,.28) 2px 4px)}
+.scan::after{content:"";position:absolute;left:0;right:0;top:-20vh;height:20vh;background:linear-gradient(transparent,rgba(0,212,230,.08),transparent);animation:sweep 7s linear infinite}
+@keyframes sweep{to{transform:translateY(130vh)}}
+
+.top{position:absolute;top:0;left:0;right:0;z-index:5;padding:18px 24px}
+.brand{display:inline-flex;align-items:center;gap:10px;color:#fff;text-decoration:none;font:600 .95rem 'Space Grotesk',sans-serif;letter-spacing:.06em}
+.brand img{height:28px;width:28px;object-fit:contain}
+
+.wrap{position:relative;z-index:3;min-height:100svh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:84px 20px 40px}
+.stage{transform:perspective(900px) rotateX(calc(var(--my)*-7deg)) rotateY(calc(var(--mx)*9deg));transform-style:preserve-3d;will-change:transform}
+.num{display:flex;align-items:center;justify-content:center;font:700 clamp(5.5rem,30vw,15rem)/1 'Space Grotesk',sans-serif;letter-spacing:-.04em;user-select:none;transform-style:preserve-3d;transition:transform .9s cubic-bezier(.7,0,.2,1)}
+body.mirror .num{transform:scaleX(-1)}
+.d{position:relative;color:#fff;text-shadow:0 0 30px rgba(0,212,230,.4),0 0 90px rgba(122,34,167,.55);animation:rise 1.2s cubic-bezier(.2,.9,.2,1) both}
+.d:last-child{animation-delay:.2s}
+@keyframes rise{from{opacity:0;filter:blur(18px);transform:translateY(50px) scale(.8)}to{opacity:1;filter:none;transform:none}}
+.d::before,.d::after{content:attr(data-t);position:absolute;inset:0;clip-path:inset(0 0 100% 0);mix-blend-mode:screen;text-shadow:none}
+.d::before{color:var(--c)}.d::after{color:var(--p2)}
+.burst .d::before{animation:g1 .45s steps(2) 1}
+.burst .d::after{animation:g2 .45s steps(2) 1}
+@keyframes g1{0%{clip-path:inset(10% 0 70% 0);transform:translate(-7px)}25%{clip-path:inset(60% 0 15% 0);transform:translate(6px)}50%{clip-path:inset(30% 0 40% 0);transform:translate(-4px)}75%{clip-path:inset(78% 0 5% 0);transform:translate(8px)}100%{clip-path:inset(0 0 100% 0);transform:none}}
+@keyframes g2{0%{clip-path:inset(55% 0 20% 0);transform:translate(7px)}25%{clip-path:inset(8% 0 75% 0);transform:translate(-6px)}50%{clip-path:inset(70% 0 10% 0);transform:translate(4px)}75%{clip-path:inset(35% 0 45% 0);transform:translate(-8px)}100%{clip-path:inset(0 0 100% 0);transform:none}}
+
+.ring{position:relative;width:.82em;height:.82em;margin:0 .07em;display:grid;place-items:center;cursor:pointer;transform:translateZ(60px);animation:pop 1.3s .25s cubic-bezier(.2,.9,.2,1) both;outline:none}
+@keyframes pop{from{opacity:0;transform:translateZ(60px) scale(.2) rotate(-200deg)}to{opacity:1;transform:translateZ(60px)}}
+.ring::before{content:"";position:absolute;inset:0;border-radius:50%;background:conic-gradient(var(--p),var(--c),var(--p2),var(--p));-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - .06em),#000 calc(100% - .06em));mask:radial-gradient(farthest-side,transparent calc(100% - .06em),#000 calc(100% - .06em));animation:spin 7s linear infinite;filter:drop-shadow(0 0 .07em var(--c))}
+.ring::after{content:"";position:absolute;inset:-.1em;border-radius:50%;border:2px dashed rgba(0,212,230,.35);animation:spin 20s linear infinite reverse}
+.ring:focus-visible::after{border-color:#fff}
+.orb{position:absolute;inset:-.1em;border-radius:50%;animation:spin 5s linear infinite}
+.orb::before{content:"";position:absolute;top:-.03em;left:50%;width:.06em;height:.06em;margin-left:-.03em;border-radius:50%;background:#fff;box-shadow:0 0 .15em .05em var(--c)}
+@keyframes spin{to{transform:rotate(360deg)}}
+#fp{font-size:.38em;font-weight:700;transition:color .2s}
+#fp.f{color:var(--p2);text-shadow:0 0 .35em var(--p)}
+#fp.p{color:var(--c);text-shadow:0 0 .35em var(--c)}
+
+.rv{opacity:0;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards;animation-delay:calc(var(--i,0)*.14s + .6s)}
+@keyframes up{from{opacity:0;transform:translateY(22px);filter:blur(6px)}to{opacity:1;transform:none;filter:none}}
+.sub{margin-top:.8rem;font:600 clamp(1.5rem,4.4vw,2.4rem) 'Space Grotesk',sans-serif;letter-spacing:.04em;text-shadow:0 0 22px rgba(122,34,167,.9)}
+.sub em{font-style:normal;color:var(--c);text-decoration:line-through;text-decoration-thickness:3px;animation:fl 2.6s steps(1) infinite}
+@keyframes fl{0%,100%{opacity:1}46%{opacity:.15}48%{opacity:1}50%{opacity:.25}52%{opacity:1}}
+.line{min-height:3.2em;max-width:560px;margin:1rem auto .6rem;font:400 .98rem/1.65 'Space Mono',monospace;color:#c8cfe0}
+.line::after{content:"\258D";color:var(--c);margin-left:3px;animation:bl 1s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+
+.term{display:inline-grid;grid-template-columns:auto auto;gap:4px 18px;margin:.8rem 0 1rem;padding:2px 0 2px 16px;border-left:2px solid var(--p);text-align:left;font:400 .76rem/1.5 'Space Mono',monospace}
+.term .k{color:var(--mut)}
+.term b{font-weight:700;color:var(--c)}
+.term .hot{color:#ff5c8a}
+.bar{grid-column:1/-1;height:4px;border-radius:4px;margin-top:4px;background:linear-gradient(90deg,var(--p) var(--w,50%),var(--c) var(--w,50%))}
+.sug{min-height:1.6em;margin-bottom:1.4rem;font-size:.9rem;color:var(--mut)}
+.sug a{margin-left:8px;color:var(--c);font-weight:600;text-decoration:underline;text-underline-offset:4px}
+
+.btns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+.fp-btn{position:relative;display:inline-flex;align-items:center;gap:.6em;padding:.85rem 1.45rem;border-radius:999px;overflow:hidden;color:#fff;text-decoration:none;font:600 .92rem 'Space Grotesk',sans-serif;border:1px solid rgba(255,255,255,.16);background:rgba(255,255,255,.04);backdrop-filter:blur(6px);transition:transform .25s cubic-bezier(.2,.8,.2,1),border-color .3s,box-shadow .3s}
+.fp-btn.pri{border-color:transparent;background:linear-gradient(120deg,var(--p),#4b2bd1 55%,var(--c));box-shadow:0 10px 32px -10px var(--p)}
+.fp-btn::before{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent 30%,rgba(255,255,255,.3) 50%,transparent 70%);transform:translateX(-120%);transition:transform .6s}
+.fp-btn:hover::before{transform:translateX(120%)}
+.fp-btn:hover,.fp-btn:focus-visible{border-color:var(--c);box-shadow:0 0 26px -6px var(--c);outline:none}
+.hint{margin-top:2.2rem;font:400 .8rem 'Space Mono',monospace;color:var(--mut);letter-spacing:.04em}
+.hint b{color:#fff;font-weight:700}
+
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body>
+<canvas id="fx" aria-hidden="true"></canvas>
+<div class="vig"></div><div class="scan"></div>
+
+<header class="top">
+  <a class="brand" href="./index.html"><img src="./assets/Image6.png" alt="" onerror="this.remove()"><span>Farjan Paradox</span></a>
+</header>
+
+<main class="wrap">
+  <div class="stage" id="stage">
+    <h1 class="num" aria-label="404, page not found">
+      <span class="d" data-t="4" aria-hidden="true">4</span>
+      <span class="ring" id="ring" role="button" tabindex="0" aria-label="Flip the universe"><i class="orb"></i><b id="fp" class="f">F</b></span>
+      <span class="d" data-t="4" aria-hidden="true">4</span>
+    </h1>
+  </div>
+
+  <h2 class="sub rv" style="--i:1">Reality <em>not</em> found</h2>
+  <p class="line rv" id="line" style="--i:2"></p>
+
+  <div class="term rv" style="--i:3">
+    <span class="k">you asked for</span><span id="req"></span>
+    <span class="k">observer</span><b id="obs">none</b>
+    <span class="k">state</span><b id="st">superposition</b>
+    <span class="k">probability</span><b id="ex">50.0% exists</b>
+    <span class="k">time in the void</span><b id="tm">00:00</b>
+    <div class="bar" id="bar"></div>
+  </div>
+
+  <p class="sug rv" style="--i:4"><span id="sgt"></span><a id="sga" hidden></a></p>
+
+  <nav class="btns rv" style="--i:5">
+    <a class="fp-btn pri" href="./index.html">Escape to Home <i class="fa-solid fa-house"></i></a>
+    <a class="fp-btn" href="./index.html#portfolio">Explore Work <i class="fa-solid fa-briefcase"></i></a>
+    <a class="fp-btn" href="./index.html#contact">Contact Me <i class="fa-solid fa-envelope"></i></a>
+  </nav>
+
+  <p class="hint rv" style="--i:6"><b>Explore The Impossible.</b> Start by clicking the ring. It knows something.</p>
+</main>
+
+<script>
+(()=>{
+const $=s=>document.querySelector(s),T=document.title,rnd=Math.random;
+const RM=matchMedia('(prefers-reduced-motion: reduce)').matches;
+let P='#7A22A7',C='#00D4E6',mirror=false,li=0;
+const cv=$('#fx'),cx=cv.getContext('2d'),stage=$('#stage'),line=$('#line'),fp=$('#fp'),ring=$('#ring');
+let W,H,pts=[],rip=[];
+const ptr={x:0,y:0,t:-1e5};
+
+/* ---------- quantum particle field ---------- */
+function size(){
+  const D=Math.min(devicePixelRatio||1,2);W=innerWidth;H=innerHeight;
+  cv.width=W*D;cv.height=H*D;cx.setTransform(D,0,0,D,0,0);
+  const n=Math.round(Math.min(150,W*H/9500)*(RM?.4:1));
+  pts=Array.from({length:n},()=>({x:rnd()*W,y:rnd()*H,vx:(rnd()-.5)*.4,vy:(rnd()-.5)*.4,r:rnd()*1.5+.8,s:rnd()<.5?0:1,ph:rnd()*6.28,o:false,d:999}));
+}
+addEventListener('resize',size);size();
+addEventListener('pointermove',e=>{ptr.x=e.clientX;ptr.y=e.clientY;ptr.t=performance.now()});
+addEventListener('pointerdown',e=>{ptr.x=e.clientX;ptr.y=e.clientY;ptr.t=performance.now();rip.push({x:e.clientX,y:e.clientY,r:0,a:1});burst()});
+
+let mx=0,my=0;
+function frame(t){
+  const real=t-ptr.t<2500;
+  const ax=real?ptr.x:W/2+Math.cos(t/2600)*W*.32,ay=real?ptr.y:H/2+Math.sin(t/1900)*H*.26;
+  cx.globalAlpha=1;cx.fillStyle='rgba(10,10,18,.28)';cx.fillRect(0,0,W,H);
+  const R=170,dir=mirror?-1:1;
+  const g=cx.createRadialGradient(ax,ay,0,ax,ay,R);g.addColorStop(0,C+'33');g.addColorStop(1,C+'00');
+  cx.fillStyle=g;cx.fillRect(ax-R,ay-R,R*2,R*2);
+
+  for(const p of pts){
+    p.x+=p.vx;p.y+=p.vy;
+    if(p.x<-20)p.x=W+20;else if(p.x>W+20)p.x=-20;
+    if(p.y<-20)p.y=H+20;else if(p.y>H+20)p.y=-20;
+    const dx=ax-p.x,dy=ay-p.y,d=Math.hypot(dx,dy)+.001;
+    p.d=d;p.o=d<R;
+    if(p.o){ // observed: particle collapses and orbits the cursor
+      const k=1-d/R;p.vx+=(dx/d*.05*dir-dy/d*.06)*k;p.vy+=(dy/d*.05*dir+dx/d*.06)*k;p.s=1;
+    }else if(rnd()<.008)p.s^=1; // unobserved: flickers between two states
+    for(const r of rip){if(Math.abs(Math.hypot(p.x-r.x,p.y-r.y)-r.r)<24){const a=Math.atan2(p.y-r.y,p.x-r.x);p.vx+=Math.cos(a)*.35*r.a;p.vy+=Math.sin(a)*.35*r.a}}
+    p.vx=p.vx*.985+(rnd()-.5)*.01;p.vy=p.vy*.985+(rnd()-.5)*.01;
+    const sp=Math.hypot(p.vx,p.vy);if(sp>3){p.vx*=3/sp;p.vy*=3/sp}
+  }
+
+  cx.lineWidth=1;
+  for(let i=0;i<pts.length;i++){
+    const a=pts[i];
+    for(let j=i+1;j<pts.length;j++){
+      const b=pts[j],d=Math.hypot(a.x-b.x,a.y-b.y);
+      if(d<110){cx.globalAlpha=(1-d/110)*(a.o&&b.o?.5:.18);cx.strokeStyle=a.o||b.o?C:P;cx.beginPath();cx.moveTo(a.x,a.y);cx.lineTo(b.x,b.y);cx.stroke()}
+    }
+    if(a.o){cx.globalAlpha=(1-a.d/R)*.35;cx.strokeStyle=C;cx.beginPath();cx.moveTo(a.x,a.y);cx.lineTo(ax,ay);cx.stroke()}
+    cx.globalAlpha=a.o?1:.5+.4*Math.sin(t/600+a.ph);
+    cx.fillStyle=a.s?C:P;cx.beginPath();cx.arc(a.x,a.y,a.o?a.r+.8:a.r,0,6.283);cx.fill();
+    if(!a.o){cx.globalAlpha=.22;cx.fillStyle=a.s?P:C;cx.beginPath();cx.arc(a.x+Math.cos(a.ph+t/800)*6,a.y+Math.sin(a.ph+t/800)*6,a.r,0,6.283);cx.fill()} // ghost twin
+  }
+
+  for(let i=rip.length-1;i>=0;i--){
+    const r=rip[i];r.r+=7;r.a-=.014;if(r.a<=0){rip.splice(i,1);continue}
+    cx.lineWidth=2;cx.globalAlpha=r.a*.7;cx.strokeStyle=C;cx.beginPath();cx.arc(r.x,r.y,r.r,0,6.283);cx.stroke();
+    cx.globalAlpha=r.a*.4;cx.strokeStyle=P;cx.beginPath();cx.arc(r.x,r.y,Math.max(0,r.r-16),0,6.283);cx.stroke();
+  }
+  cx.globalAlpha=1;
+
+  mx+=((ax/W-.5)*2-mx)*.06;my+=((ay/H-.5)*2-my)*.06; // 3D tilt follows the observer
+  stage.style.setProperty('--mx',mx.toFixed(3));stage.style.setProperty('--my',my.toFixed(3));
+  if(!RM)requestAnimationFrame(frame);
+}
+requestAnimationFrame(frame);
+
+/* ---------- text decrypt effect + paradox lines ---------- */
+const G='!<>-_/[]{}=+*^?#01';
+function scr(el,txt,dur=900){
+  const n=Math.max(el.textContent.length,txt.length),t0=performance.now();
+  cancelAnimationFrame(el._r);
+  (function s(now){
+    const k=Math.min(1,(now-t0)/dur);let o='';
+    for(let i=0;i<n;i++)o+=k>=1||k>i/n*.8+.15?(txt[i]||''):(i<txt.length?(txt[i]===' '?' ':G[rnd()*G.length|0]):'');
+    el.textContent=o;if(k<1)el._r=requestAnimationFrame(s);
+  })(t0);
+}
+const LINES=[
+  "This page doesn't exist. Yet here you are, reading it.",
+  "If a page 404s and nobody is watching, did it ever load?",
+  "You didn't get lost. The URL did.",
+  "Error: reality returned null, and null returned a smile.",
+  "Every path leads somewhere. This one leads to a question.",
+  "The only thing here is the fact that nothing is here."
+];
+setTimeout(()=>{scr(line,LINES[0],1100);setInterval(()=>{if(!mirror)scr(line,LINES[li=++li%LINES.length])},5600)},900);
+
+/* ---------- glitch bursts, F/P superposition, mirror universe ---------- */
+function burst(){stage.classList.add('burst');setTimeout(()=>stage.classList.remove('burst'),480)}
+if(!RM)(function L(){setTimeout(()=>{burst();L()},2400+rnd()*4600)})();
+let fs=0;
+setInterval(()=>{fs^=1;fp.className=fs?'p':'f';fp.textContent='\u2205';setTimeout(()=>fp.textContent=fs?'P':'F',140)},1500);
+function flip(){
+  mirror=!mirror;document.body.classList.toggle('mirror',mirror);
+  [P,C]=[C,P];burst();
+  scr(line,mirror?'You flipped the universe. Nothing changed. Everything did.':LINES[li]);
+}
+ring.addEventListener('click',flip);
+ring.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();flip()}});
+
+/* ---------- live Schrodinger readout ---------- */
+let path='/';try{path=decodeURIComponent(location.pathname+location.search+location.hash)}catch(e){path=location.pathname}
+$('#req').textContent=path.length>34?path.slice(0,33)+'\u2026':path; // textContent only: safe against injected URLs
+const born=performance.now();let pr=50;
+setInterval(()=>{
+  const n=performance.now(),ob=n-ptr.t<1800;
+  pr+=((ob?0:50+Math.sin(n/650)*24)-pr)*.12;
+  $('#obs').textContent=ob?'detected':'none';$('#obs').className=ob?'hot':'';
+  $('#st').textContent=ob?'collapsed into 404':'superposition';
+  $('#ex').textContent=pr.toFixed(1)+'% exists';
+  $('#bar').style.setProperty('--w',pr+'%');
+  const s=(n-born)/1000|0;$('#tm').textContent=String(s/60|0).padStart(2,'0')+':'+String(s%60).padStart(2,'0');
+},100);
+
+/* ---------- smart suggestion: closest real page ---------- */
+// Edit this list to match your real sections.
+const ROUTES=[
+  {n:'Home',h:'./index.html',k:['home','index','main','start','landing']},
+  {n:'Portfolio',h:'./index.html#portfolio',k:['portfolio','work','works','projects','project','gallery','showcase']},
+  {n:'Contact',h:'./index.html#contact',k:['contact','hire','mail','email','reach','touch']}
+];
+const lev=(a,b)=>{const m=[...Array(a.length+1)].map((_,i)=>[i,...Array(b.length).fill(0)]);for(let j=1;j<=b.length;j++)m[0][j]=j;for(let i=1;i<=a.length;i++)for(let j=1;j<=b.length;j++)m[i][j]=Math.min(m[i-1][j]+1,m[i][j-1]+1,m[i-1][j-1]+(a[i-1]===b[j-1]?0:1));return m[a.length][b.length]};
+const toks=location.pathname.toLowerCase().split(/[^a-z]+/).filter(x=>x.length>2&&!/^(html?|php|www)$/.test(x));
+let best=null,bd=9;
+for(const r of ROUTES)for(const k of r.k)for(const t of toks){const d=(k.includes(t)||t.includes(k))?0:lev(t,k);if(d<bd){bd=d;best=r}}
+if(best&&bd<=2){$('#sgt').textContent='Closest reality I could find:';const a=$('#sga');a.textContent=best.n;a.href=best.h;a.hidden=false}
+else $('#sgt').textContent='No parallel universe matches this address. That is the paradox.';
+
+/* ---------- magnetic buttons + tab-leave easter egg ---------- */
+document.querySelectorAll('.fp-btn').forEach(b=>{
+  b.addEventListener('pointermove',e=>{const r=b.getBoundingClientRect();b.style.transform=`translate(${(e.clientX-r.left-r.width/2)*.18}px,${(e.clientY-r.top-r.height/2)*.28}px)`});
+  b.addEventListener('pointerleave',()=>b.style.transform='');
+});
+document.addEventListener('visibilitychange',()=>{document.title=document.hidden?'Where did you go?':T});
+console.log('%cThere is no 404. There is only you, looking.','color:#00D4E6;font:700 14px monospace');
+})();
+</script>
+</body>
+</html>

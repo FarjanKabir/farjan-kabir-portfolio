@@ -1,0 +1,544 @@
+{
+  "posts": [
+    {
+      "title": {
+        "en": "How to Build a WordPress Website in 2026 (Beginner Guide)",
+        "bn": "২০২৬ সালে কিভাবে ওয়ার্ডপ্রেস ওয়েবসাইট তৈরি করবেন (বিগিনার গাইড)"
+      },
+      "slug": "how-to-build-a-wordpress-website",
+      "category": "WordPress",
+      "date": "2026-09-19",
+      "image": "assets/blog/wordpress-beginner-guide.webp",
+      "imageAlt": {
+        "en": "Beginner guide on how to build a WordPress website in 2026",
+        "bn": "২০২৬ সালে ওয়ার্ডপ্রেস ওয়েবসাইট তৈরি করার বিগিনার গাইড"
+      },
+      "excerpt": {
+        "en": "Learn how to build a WordPress website in 2026 with this beginner-friendly guide. Covers domain, hosting, themes, plugins, and essential SEO steps.",
+        "bn": "এই বিগিনার-ফ্রেন্ডলি গাইডে ২০২৬ সালে কিভাবে ওয়ার্ডপ্রেস ওয়েবসাইট তৈরি করবেন তা শিখুন। ডোমেইন, হোস্টিং, থিম, প্লাগইন এবং প্রয়োজনীয় SEO ধাপগুলো কভার করা হয়েছে।"
+      },
+      "content": [
+        {
+          "en": "Learning how to build a WordPress website does not require any coding experience. In 2026, WordPress still powers over 43% of all websites online. This guide walks you through every step — from picking a domain to publishing your first page. Whether you want a personal blog, a business site, or an online store, this beginner-friendly tutorial gives you a clear roadmap.",
+          "bn": "ওয়ার্ডপ্রেস ওয়েবসাইট তৈরি করতে শেখার জন্য কোনো কোডিং অভিজ্ঞতার প্রয়োজন নেই। ২০২৬ সালেও ইন্টারনেটের ৪৩%-এর বেশি ওয়েবসাইট ওয়ার্ডপ্রেস দিয়ে তৈরি। এই গাইডটি আপনাকে প্রতিটি ধাপ ধরে ধরে দেখাবে — ডোমেইন বাছাই করা থেকে শুরু করে নিজের প্রথম পেজ প্রকাশ করা পর্যন্ত। আপনি ব্যক্তিগত ব্লগ, ব্যবসায়িক সাইট, নাকি অনলাইন স্টোর চান — এই বিগিনার-ফ্রেন্ডলি টিউটোরিয়াল আপনাকে একটি স্পষ্ট রোডম্যাপ দেবে।"
+        },
+        {
+          "en": "## Why WordPress Is Still the Best Choice in 2026",
+          "bn": "## কেন ২০২৬ সালেও ওয়ার্ডপ্রেস সেরা পছন্দ"
+        },
+        {
+          "en": "WordPress has been the world's most popular website platform for over a decade. It remains a smart choice for beginners and professionals alike. Here is why millions of people trust it:",
+          "bn": "ওয়ার্ডপ্রেস এক দশকেরও বেশি সময় ধরে বিশ্বের সবচেয়ে জনপ্রিয় ওয়েবসাইট প্ল্যাটফর্ম। এটি এখনো বিগিনার এবং প্রফেশনাল — উভয়ের জন্যই বুদ্ধিমান পছন্দ। কেন লক্ষ লক্ষ মানুষ এটাকে বিশ্বাস করে:"
+        },
+        {
+          "en": "- It is completely free and open-source\n- Thousands of free themes and plugins are available\n- No coding knowledge is required\n- Built-in SEO-friendly structure\n- A large global community for support",
+          "bn": "- এটি সম্পূর্ণ ফ্রি এবং ওপেন-সোর্স\n- হাজার হাজার ফ্রি থিম ও প্লাগইন পাওয়া যায়\n- কোনো কোডিং জ্ঞান প্রয়োজন নেই\n- বিল্ট-ইন SEO-ফ্রেন্ডলি স্ট্রাকচার\n- সহায়তার জন্য বড় গ্লোবাল কমিউনিটি"
+        },
+        {
+          "en": "Because of these advantages, anyone can build a WordPress website that grows with their goals.",
+          "bn": "এই সুবিধাগুলোর কারণেই যে কেউ এমন একটি ওয়ার্ডপ্রেস ওয়েবসাইট তৈরি করতে পারে যা তার লক্ষ্যের সাথে বেড়ে ওঠে।"
+        },
+        {
+          "en": "## What You Need Before You Start",
+          "bn": "## শুরু করার আগে যা যা প্রয়োজন"
+        },
+        {
+          "en": "Before you begin, gather a few essentials. A little preparation keeps the process smooth and stress-free.",
+          "bn": "শুরু করার আগে কয়েকটি প্রয়োজনীয় জিনিস সংগ্রহ করুন। একটু প্রস্তুতিই পুরো প্রক্রিয়াটিকে সহজ ও ঝামেলামুক্ত রাখে।"
+        },
+        {
+          "en": "You will need a domain name, a web hosting plan, an active email address, and about one to two hours of focused time. Do not worry about technical skills. Every step in this guide is designed for complete beginners.",
+          "bn": "আপনার প্রয়োজন হবে একটি ডোমেইন নাম, একটি ওয়েব হোস্টিং প্ল্যান, একটি সক্রিয় ইমেইল ঠিকানা এবং প্রায় এক থেকে দুই ঘণ্টার মনোযোগী সময়। টেকনিক্যাল স্কিল নিয়ে চিন্তা করবেন না। এই গাইডের প্রতিটি ধাপ সম্পূর্ণ বিগিনারদের জন্য তৈরি।"
+        },
+        {
+          "en": "## Step-by-Step Guide to Build a WordPress Website",
+          "bn": "## ওয়ার্ডপ্রেস ওয়েবসাইট তৈরির ধাপে ধাপে গাইড"
+        },
+        {
+          "en": "Here is the complete process. Follow each step carefully and take your time.",
+          "bn": "এখানে সম্পূর্ণ প্রক্রিয়া দেওয়া হলো। প্রতিটি ধাপ সতর্কভাবে অনুসরণ করুন এবং সময় নিন।"
+        },
+        {
+          "en": "### Step 1 – Choose a Domain Name",
+          "bn": "### ধাপ ১ – একটি ডোমেইন নাম বাছাই করুন"
+        },
+        {
+          "en": "Your domain is your website's address. Pick something short, memorable, and easy to spell. For example, if your site is about photography, `snapmoments.com` works far better than a long, complicated name.",
+          "bn": "আপনার ডোমেইন হলো আপনার ওয়েবসাইটের ঠিকানা। এমন কিছু বাছুন যা ছোট, স্মরণীয় এবং বানান করা সহজ। উদাহরণস্বরূপ, আপনার সাইট যদি ফটোগ্রাফি নিয়ে হয়, `snapmoments.com` একটি লম্বা ও জটিল নামের চেয়ে অনেক ভালো কাজ করে।"
+        },
+        {
+          "en": "Keep these tips in mind: use .com when possible, avoid numbers and hyphens, and choose a brand-friendly name. Popular registrars include [Namecheap](https://www.namecheap.com/), [GoDaddy](https://www.godaddy.com/), and [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/).",
+          "bn": "এই টিপসগুলো মনে রাখুন: সম্ভব হলে .com ব্যবহার করুন, সংখ্যা ও হাইফেন এড়িয়ে চলুন এবং একটি ব্র্যান্ড-ফ্রেন্ডলি নাম বাছুন। জনপ্রিয় রেজিস্ট্রারগুলোর মধ্যে রয়েছে [Namecheap](https://www.namecheap.com/), [GoDaddy](https://www.godaddy.com/), এবং [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)।"
+        },
+        {
+          "en": "### Step 2 – Get Reliable Web Hosting",
+          "bn": "### ধাপ ২ – বিশ্বস্ত ওয়েব হোস্টিং নিন"
+        },
+        {
+          "en": "Hosting is where your website lives. Cheap hosting often means slow speed, downtime, and security risks. For beginners, reliable options include [Bluehost](https://www.bluehost.com/), [SiteGround](https://www.siteground.com/), and [Hostinger](https://www.hostinger.com/).",
+          "bn": "হোস্টিং হলো সেই জায়গা যেখানে আপনার ওয়েবসাইট বাস করে। সস্তা হোস্টিং মানে প্রায়ই ধীর গতি, ডাউনটাইম এবং সিকিউরিটি ঝুঁকি। বিগিনারদের জন্য নির্ভরযোগ্য অপশনের মধ্যে রয়েছে [Bluehost](https://www.bluehost.com/), [SiteGround](https://www.siteground.com/), এবং [Hostinger](https://www.hostinger.com/)।"
+        },
+        {
+          "en": "Most hosts offer a one-click WordPress installation. This saves time and prevents setup mistakes. Always check reviews before choosing a provider.",
+          "bn": "বেশিরভাগ হোস্ট ওয়ান-ক্লিক ওয়ার্ডপ্রেস ইনস্টলেশন অফার করে। এটি সময় বাঁচায় এবং সেটআপের ভুল প্রতিরোধ করে। প্রোভাইডার বাছাই করার আগে সবসময় রিভিউ দেখুন।"
+        },
+        {
+          "en": "### Step 3 – Install WordPress",
+          "bn": "### ধাপ ৩ – ওয়ার্ডপ্রেস ইনস্টল করুন"
+        },
+        {
+          "en": "After buying hosting, install WordPress. The process usually takes less than five minutes. Most hosting dashboards have a WordPress Installer button.",
+          "bn": "হোস্টিং কেনার পর ওয়ার্ডপ্রেস ইনস্টল করুন। এই প্রক্রিয়াটি সাধারণত পাঁচ মিনিটেরও কম সময় নেয়। বেশিরভাগ হোস্টিং ড্যাশবোর্ডে একটি WordPress Installer বাটন থাকে।"
+        },
+        {
+          "en": "![WordPress dashboard interface showing posts, pages and settings menu](assets/blog/wordpress-dashboard.webp)",
+          "bn": "![পোস্ট, পেজ এবং সেটিংস মেনু সহ ওয়ার্ডপ্রেস ড্যাশবোর্ড ইন্টারফেস](assets/blog/wordpress-dashboard.webp)"
+        },
+        {
+          "en": "Click it, follow the prompts, and you are done. Your hosting provider will email your login details. Keep those credentials safe.",
+          "bn": "এটিতে ক্লিক করুন, প্রম্পটগুলো অনুসরণ করুন, কাজ শেষ। আপনার হোস্টিং প্রোভাইডার আপনার লগইন তথ্য ইমেইল করবে। সেই ক্রেডেনশিয়ালগুলো নিরাপদে রাখুন।"
+        },
+        {
+          "en": "### Step 4 – Select a Beautiful Theme",
+          "bn": "### ধাপ ৪ – একটি সুন্দর থিম বাছুন"
+        },
+        {
+          "en": "A theme controls how your website looks and feels. WordPress offers thousands of free and premium options. For beginners, lightweight themes work best.",
+          "bn": "একটি থিম নিয়ন্ত্রণ করে আপনার ওয়েবসাইট কেমন দেখাবে এবং কেমন অনুভূতি দেবে। ওয়ার্ডপ্রেস হাজার হাজার ফ্রি ও প্রিমিয়াম অপশন অফার করে। বিগিনারদের জন্য লাইটওয়েট থিম সবচেয়ে ভালো কাজ করে।"
+        },
+        {
+          "en": "Consider Astra, GeneratePress, OceanWP, or Kadence. These themes are fast, easy to customize, and search-engine friendly. Avoid bloated themes with features you will never use.",
+          "bn": "Astra, GeneratePress, OceanWP অথবা Kadence বিবেচনা করুন। এই থিমগুলো দ্রুত, সহজে কাস্টমাইজ করা যায় এবং সার্চ-ইঞ্জিন ফ্রেন্ডলি। এমন ভারী থিম এড়িয়ে চলুন যেগুলোতে আপনি কখনোই ব্যবহার করবেন না এমন ফিচার আছে।"
+        },
+        {
+          "en": "### Step 5 – Install Essential Plugins",
+          "bn": "### ধাপ ৫ – প্রয়োজনীয় প্লাগইন ইনস্টল করুন"
+        },
+        {
+          "en": "Plugins add new features to your site. However, installing too many slows down your website. Focus on quality, not quantity.",
+          "bn": "প্লাগইন আপনার সাইটে নতুন ফিচার যোগ করে। তবে অতিরিক্ত ইনস্টল করলে আপনার ওয়েবসাইট ধীর হয়ে যায়। পরিমাণে নয়, গুণে মনোযোগ দিন।"
+        },
+        {
+          "en": "Here are the must-have plugins for any beginner: [Yoast SEO](https://yoast.com/) or [Rank Math](https://rankmath.com/) for SEO, [WPForms](https://wpforms.com/) for contact forms, [LiteSpeed Cache](https://www.litespeedtech.com/products/litespeed-cache) for speed, [Akismet](https://akismet.com/) for spam protection, and [UpdraftPlus](https://updraftplus.com/) for backups. To build a WordPress website that performs well, keep plugins under fifteen.",
+          "bn": "যেকোনো বিগিনারের জন্য অপরিহার্য প্লাগইনগুলো হলো: SEO এর জন্য [Yoast SEO](https://yoast.com/) বা [Rank Math](https://rankmath.com/), কন্টাক্ট ফর্মের জন্য [WPForms](https://wpforms.com/), স্পিডের জন্য [LiteSpeed Cache](https://www.litespeedtech.com/products/litespeed-cache), স্প্যাম প্রোটেকশনের জন্য [Akismet](https://akismet.com/), এবং ব্যাকআপের জন্য [UpdraftPlus](https://updraftplus.com/)। ভালো পারফরম্যান্সের জন্য প্লাগইন ১৫টির নিচে রাখুন।"
+        },
+        {
+          "en": "## Step 6 – Create Your Core Pages",
+          "bn": "## ধাপ ৬ – আপনার মূল পেজগুলো তৈরি করুন"
+        },
+        {
+          "en": "Every website needs a few standard pages. These include Home, About, Contact, Blog, and Privacy Policy. Use the built-in WordPress editor or Elementor for drag-and-drop design.",
+          "bn": "প্রতিটি ওয়েবসাইটে কিছু স্ট্যান্ডার্ড পেজ প্রয়োজন। এর মধ্যে রয়েছে Home, About, Contact, Blog, এবং Privacy Policy। ড্র্যাগ-অ্যান্ড-ড্রপ ডিজাইনের জন্য বিল্ট-ইন ওয়ার্ডপ্রেস এডিটর বা Elementor ব্যবহার করুন।"
+        },
+        {
+          "en": "Both options work well for beginners. Take time to write clear, helpful content on each page. Visitors should understand your purpose within seconds.",
+          "bn": "দুটি অপশনই বিগিনারদের জন্য ভালো কাজ করে। প্রতিটি পেজে পরিষ্কার ও সহায়ক কনটেন্ট লিখতে সময় নিন। ভিজিটররা যেন কয়েক সেকেন্ডেই আপনার উদ্দেশ্য বুঝতে পারে।"
+        },
+        {
+          "en": "## Step 7 – Optimize for SEO",
+          "bn": "## ধাপ ৭ – SEO এর জন্য অপ্টিমাইজ করুন"
+        },
+        {
+          "en": "SEO helps people find your site on Google. Even beginners can handle basic SEO with the right approach. Install Yoast SEO or Rank Math to get started.",
+          "bn": "SEO মানুষকে Google এ আপনার সাইট খুঁজে পেতে সাহায্য করে। সঠিক পদ্ধতিতে বিগিনাররাও বেসিক SEO করতে পারেন। শুরু করতে [Yoast SEO](https://yoast.com/) অথবা [Rank Math](https://rankmath.com/) ইনস্টল করুন।"
+        },
+        {
+          "en": "Follow these basics: set a focus keyphrase for each page, write a compelling meta description, use proper headings, add alt text to images, and create internal links between pages. These small actions make a huge difference over time.",
+          "bn": "এই বেসিক বিষয়গুলো অনুসরণ করুন: প্রতিটি পেজের জন্য একটি ফোকাস কিওয়ার্ড সেট করুন, আকর্ষণীয় মেটা ডেসক্রিপশন লিখুন, সঠিক হেডিং ব্যবহার করুন, ছবিতে alt টেক্সট যোগ করুন এবং পেজগুলোর মধ্যে ইন্টারনাল লিংক তৈরি করুন। এই ছোট ছোট কাজ সময়ের সাথে বড় পার্থক্য তৈরি করে।"
+        },
+        {
+          "en": "## Common Mistakes to Avoid",
+          "bn": "## যে সাধারণ ভুলগুলো এড়িয়ে চলবেন"
+        },
+        {
+          "en": "Many beginners repeat the same mistakes. Learning from them saves time and frustration.",
+          "bn": "অনেক বিগিনার একই ভুল বারবার করেন। সেগুলো থেকে শিখলে সময় ও হতাশা দুটোই বাঁচে।"
+        },
+        {
+          "en": "- Choosing cheap, unreliable hosting\n- Installing too many plugins\n- Skipping SEO from the start\n- Ignoring website speed\n- Forgetting regular backups\n- Using the default 'admin' username",
+          "bn": "- সস্তা ও অবিশ্বস্ত হোস্টিং বাছাই করা\n- অতিরিক্ত প্লাগইন ইনস্টল করা\n- শুরু থেকেই SEO বাদ দেওয়া\n- ওয়েবসাইটের স্পিড উপেক্ষা করা\n- নিয়মিত ব্যাকআপ ভুলে যাওয়া\n- ডিফল্ট 'admin' ইউজারনেম ব্যবহার করা"
+        },
+        {
+          "en": "Avoid these pitfalls, and your website will perform far better than most beginner sites.",
+          "bn": "এই ভুলগুলো এড়িয়ে চললে আপনার ওয়েবসাইট বেশিরভাগ বিগিনার সাইটের চেয়ে অনেক ভালো পারফর্ম করবে।"
+        },
+        {
+          "en": "## Final Thoughts",
+          "bn": "## শেষ কথা"
+        },
+        {
+          "en": "Learning how to build a WordPress website opens many doors. You can start a blog, launch a business, or offer services to clients. The most important step is simply to begin.",
+          "bn": "ওয়ার্ডপ্রেস ওয়েবসাইট তৈরি করতে শেখা অনেক দরজা খুলে দেয়। আপনি একটি ব্লগ শুরু করতে পারেন, ব্যবসা চালু করতে পারেন, অথবা ক্লায়েন্টদের সেবা দিতে পারেন। সবচেয়ে গুরুত্বপূর্ণ ধাপটি হলো শুধু শুরু করা।"
+        },
+        {
+          "en": "Do not wait for perfect conditions. Set up your site today, improve it over time, and enjoy the journey. If you found this guide helpful, explore more [WordPress and SEO tutorials on this blog](blog.html) or check out my [portfolio of real client projects](index.html#portfolio).",
+          "bn": "নিখুঁত পরিস্থিতির জন্য অপেক্ষা করবেন না। আজই আপনার সাইট সেটআপ করুন, সময়ের সাথে উন্নতি করুন এবং যাত্রাটা উপভোগ করুন। এই গাইডটি যদি সহায়ক মনে হয়, তাহলে [এই ব্লগে আরও WordPress ও SEO টিউটোরিয়াল](blog.html) দেখুন অথবা আমার [বাস্তব ক্লায়েন্ট প্রজেক্টের পোর্টফোলিও](index.html#portfolio) দেখুন।"
+        }
+      ]
+    },
+        {
+      "title": {
+        "en": "10 On-Page SEO Tips Every Beginner Should Know in 2026",
+        "bn": "২০২৬ সালে প্রতিটি বিগিনারের জানা উচিত ১০টি অন-পেজ এসইও টিপস"
+      },
+      "slug": "10-on-page-seo-tips-for-beginners",
+      "category": "SEO",
+      "date": "2026-09-19",
+      "image": "assets/blog/onpage-seo-tips.webp",
+      "imageAlt": {
+        "en": "10 on-page SEO tips for beginners to rank higher on Google",
+        "bn": "গুগলে র‍্যাঙ্ক বাড়াতে বিগিনারদের জন্য ১০টি অন-পেজ এসইও টিপস"
+      },
+      "excerpt": {
+        "en": "Learn the 10 most important on-page SEO tips to rank higher on Google. Beginner-friendly guide covering titles, meta descriptions, headings, images, and more.",
+        "bn": "গুগলে র‍্যাঙ্ক বাড়ানোর জন্য ১০টি সবচেয়ে গুরুত্বপূর্ণ অন-পেজ এসইও টিপস শিখুন। টাইটেল, মেটা ডেসক্রিপশন, হেডিং, ছবি এবং আরও অনেক কিছু কভার করা হয়েছে।"
+      },
+      "content": [
+        {
+          "en": "Learning on-page SEO tips is the fastest way for beginners to improve their website's visibility on Google. Unlike technical SEO or backlink building, on-page SEO is fully in your control. Every page on your website can be optimized with a few simple steps — and the results often show within weeks. This guide walks you through the ten most important on-page SEO tips you should apply to every page you publish.",
+          "bn": "অন-পেজ এসইও টিপস শেখা হলো Google এ ওয়েবসাইটের ভিজিবিলিটি বাড়ানোর সবচেয়ে দ্রুত উপায়। টেকনিক্যাল SEO বা ব্যাকলিংক বিল্ডিং এর বিপরীতে, অন-পেজ SEO সম্পূর্ণ আপনার নিয়ন্ত্রণে। আপনার ওয়েবসাইটের প্রতিটি পেজ কয়েকটি সহজ ধাপে অপ্টিমাইজ করা যায় — আর ফলাফল সাধারণত কয়েক সপ্তাহের মধ্যেই দেখা যায়। এই গাইডে আপনাকে সবচেয়ে গুরুত্বপূর্ণ দশটি অন-পেজ SEO টিপস দেখানো হবে, যা আপনার প্রকাশিত প্রতিটি পেজে প্রয়োগ করা উচিত।"
+        },
+        {
+          "en": "## What Is On-Page SEO?",
+          "bn": "## অন-পেজ এসইও কী?"
+        },
+        {
+          "en": "On-page SEO refers to the practice of optimizing individual web pages to rank higher and earn more relevant traffic in search engines. It focuses on both the content and the HTML source code of a page. According to [Moz](https://moz.com/learn/seo/on-page-factors), on-page factors still play a major role in how Google ranks pages today.",
+          "bn": "অন-পেজ SEO বলতে বোঝায় প্রতিটি ওয়েব পেজকে এমনভাবে অপ্টিমাইজ করা, যাতে সার্চ ইঞ্জিনে উচ্চ র‍্যাঙ্ক পায় এবং বেশি প্রাসঙ্গিক ট্রাফিক আসে। এটি পেজের কনটেন্ট এবং HTML সোর্স কোড — উভয়ের উপরই ফোকাস করে। [Moz](https://moz.com/learn/seo/on-page-factors) এর মতে, Google আজও পেজ র‍্যাঙ্কিংয়ে অন-পেজ ফ্যাক্টরগুলোকে বড় ভূমিকা দেয়।"
+        },
+        {
+          "en": "## Why On-Page SEO Matters in 2026",
+          "bn": "## ২০২৬ সালে কেন অন-পেজ এসইও গুরুত্বপূর্ণ"
+        },
+        {
+          "en": "Search engines have become smarter over the years. However, they still rely heavily on clear signals from your content. When you optimize a page properly, you help Google understand exactly what it is about.",
+          "bn": "বছরের পর বছর ধরে সার্চ ইঞ্জিন অনেক স্মার্ট হয়েছে। তবুও, তারা এখনো আপনার কনটেন্ট থেকে স্পষ্ট সিগন্যালের উপর অনেক বেশি নির্ভর করে। আপনি যখন একটি পেজ সঠিকভাবে অপ্টিমাইজ করেন, তখন Google কে বুঝতে সাহায্য করেন যে পেজটি আসলে কী নিয়ে।"
+        },
+        {
+          "en": "Here is why it matters so much: it improves your chances of ranking, it brings in targeted visitors, and it costs nothing extra to apply. Because of these reasons, every blog post and page on your website should follow proper on-page SEO.",
+          "bn": "কেন এটি এত গুরুত্বপূর্ণ: এটি আপনার র‍্যাঙ্ক করার সম্ভাবনা বাড়ায়, টার্গেটেড ভিজিটর নিয়ে আসে এবং প্রয়োগ করতে অতিরিক্ত কোনো খরচ লাগে না। এই কারণেই আপনার ওয়েবসাইটের প্রতিটি ব্লগ পোস্ট এবং পেজে সঠিক অন-পেজ SEO অনুসরণ করা উচিত।"
+        },
+        {
+          "en": "## The 10 Most Important On-Page SEO Tips",
+          "bn": "## সবচেয়ে গুরুত্বপূর্ণ ১০টি অন-পেজ এসইও টিপস"
+        },
+        {
+          "en": "Here are the ten tips that make the biggest difference. Apply them to every page you create.",
+          "bn": "এখানে দশটি টিপস দেওয়া হলো যা সবচেয়ে বড় পার্থক্য তৈরি করে। আপনি যে পেজই তৈরি করুন, প্রতিটিতে এগুলো প্রয়োগ করুন।"
+        },
+        {
+          "en": "### 1. Pick One Focus Keyphrase per Page",
+          "bn": "### ১. প্রতিটি পেজের জন্য একটি ফোকাস কিওয়ার্ড বাছুন"
+        },
+        {
+          "en": "Every page should target only one main keyphrase. This keeps your content focused. If you try to rank for five different phrases on one page, Google often gets confused.",
+          "bn": "প্রতিটি পেজে শুধু একটি মূল কিওয়ার্ড টার্গেট করা উচিত। এতে আপনার কনটেন্ট ফোকাসড থাকে। যদি আপনি একই পেজে পাঁচটি আলাদা কিওয়ার্ডের জন্য র‍্যাঙ্ক করতে চান, তাহলে Google প্রায়ই বিভ্রান্ত হয়ে যায়।"
+        },
+        {
+          "en": "Choose phrases that are specific and relevant to your topic. For example, `on-page SEO tips` is a strong focus keyphrase. Something like `SEO` alone is too broad.",
+          "bn": "এমন কিওয়ার্ড বাছুন যা নির্দিষ্ট এবং আপনার টপিকের সাথে প্রাসঙ্গিক। উদাহরণস্বরূপ, `on-page SEO tips` একটি শক্তিশালী ফোকাস কিওয়ার্ড। শুধু `SEO` লেখাটা অনেক বেশি সাধারণ।"
+        },
+        {
+          "en": "### 2. Write a Compelling SEO Title",
+          "bn": "### ২. একটি আকর্ষণীয় এসইও টাইটেল লিখুন"
+        },
+        {
+          "en": "Your SEO title appears in search results. It is the first thing users see. Therefore, it should be clear, clickable, and include your focus keyphrase near the beginning.",
+          "bn": "আপনার এসইও টাইটেল সার্চ রেজাল্টে দেখায়। এটাই প্রথম জিনিস যা ইউজাররা দেখে। তাই এটি হওয়া উচিত স্পষ্ট, ক্লিকযোগ্য এবং ফোকাস কিওয়ার্ড শুরুতে থাকা উচিত।"
+        },
+        {
+          "en": "Keep the title length between 50 and 60 characters. Otherwise, Google will cut it off. Do not use ALL CAPS, because it increases the pixel size and looks less professional.",
+          "bn": "টাইটেলের দৈর্ঘ্য ৫০ থেকে ৬০ অক্ষরের মধ্যে রাখুন। নাহলে Google এটা কেটে দেবে। সব অক্ষর বড় হাতের (ALL CAPS) ব্যবহার করবেন না, কারণ এতে পিক্সেল সাইজ বেড়ে যায় এবং কম প্রফেশনাল দেখায়।"
+        },
+        {
+          "en": "![SEO tool interface showing title and meta description fields](assets/blog/seo-title-meta.webp)",
+          "bn": "![টাইটেল ও মেটা ডেসক্রিপশন ফিল্ড সহ এসইও টুলের ইন্টারফেস](assets/blog/seo-title-meta.webp)"
+        },
+        {
+          "en": "### 3. Craft a Strong Meta Description",
+          "bn": "### ৩. একটি শক্তিশালী মেটা ডেসক্রিপশন তৈরি করুন"
+        },
+        {
+          "en": "The meta description is the short summary that appears under your title in search results. Although it does not directly affect ranking, it strongly influences clicks.",
+          "bn": "মেটা ডেসক্রিপশন হলো ছোট সারাংশ যা সার্চ রেজাল্টে আপনার টাইটেলের নিচে দেখায়। যদিও এটি সরাসরি র‍্যাঙ্কিংয়ে প্রভাব ফেলে না, এটি ক্লিককে দৃঢ়ভাবে প্রভাবিত করে।"
+        },
+        {
+          "en": "Write a description between 120 and 160 characters. Include your focus keyphrase naturally. Also, add a small hook that makes users want to click. Compare it to a newspaper headline — it needs to earn attention.",
+          "bn": "১২০ থেকে ১৬০ অক্ষরের মধ্যে ডেসক্রিপশন লিখুন। স্বাভাবিকভাবে আপনার ফোকাস কিওয়ার্ড যোগ করুন। সাথে একটি ছোট হুক যোগ করুন যা ইউজারদের ক্লিক করতে উৎসাহ দেয়। এটাকে একটি সংবাদপত্রের শিরোনামের সাথে তুলনা করুন — এটি মনোযোগ আকর্ষণ করতে হবে।"
+        },
+        {
+          "en": "### 4. Use a Proper Heading Structure",
+          "bn": "### ৪. সঠিক হেডিং স্ট্রাকচার ব্যবহার করুন"
+        },
+        {
+          "en": "Headings help Google understand the structure of your page. They also make your content easier for readers to scan.",
+          "bn": "হেডিং Google কে আপনার পেজের স্ট্রাকচার বুঝতে সাহায্য করে। এগুলো পাঠকদের জন্য আপনার কনটেন্ট স্ক্যান করাও সহজ করে তোলে।"
+        },
+        {
+          "en": "Every page should have only one H1 tag. This is usually your main title. Below that, use H2 for main sections and H3 for subsections. Never skip levels — do not jump from H1 to H3.",
+          "bn": "প্রতিটি পেজে শুধু একটি H1 ট্যাগ থাকা উচিত। এটি সাধারণত আপনার মূল টাইটেল। এর নিচে প্রধান সেকশনের জন্য H2 এবং উপ-সেকশনের জন্য H3 ব্যবহার করুন। কখনো লেভেল স্কিপ করবেন না — H1 থেকে সরাসরি H3 এ যাবেন না।"
+        },
+        {
+          "en": "### 5. Place Your Keyphrase in the First Paragraph",
+          "bn": "### ৫. প্রথম প্যারাগ্রাফে আপনার কিওয়ার্ড বসান"
+        },
+        {
+          "en": "Google gives extra weight to the opening of a page. Therefore, place your focus keyphrase within the first 100 words.",
+          "bn": "Google পেজের শুরুতে অতিরিক্ত গুরুত্ব দেয়। তাই প্রথম ১০০ শব্দের মধ্যে আপনার ফোকাস কিওয়ার্ড বসান।"
+        },
+        {
+          "en": "Do not force it though. Write naturally so the sentence still reads well. A smooth introduction keeps readers engaged and signals relevance to search engines.",
+          "bn": "তবে জোর করে বসাবেন না। স্বাভাবিকভাবে লিখুন যাতে বাক্যটি সুন্দরভাবে পড়া যায়। একটি স্মুথ ইন্ট্রোডাকশন পাঠকদের ধরে রাখে এবং সার্চ ইঞ্জিনকে প্রাসঙ্গিকতার সিগন্যাল দেয়।"
+        },
+        {
+          "en": "### 6. Add Descriptive Alt Text to Every Image",
+          "bn": "### ৬. প্রতিটি ছবিতে বর্ণনামূলক অল্ট টেক্সট যোগ করুন"
+        },
+        {
+          "en": "Alt text describes an image for search engines and screen readers. When you upload an image, always fill in the alt field.",
+          "bn": "অল্ট টেক্সট সার্চ ইঞ্জিন এবং স্ক্রিন রিডারদের জন্য একটি ছবি বর্ণনা করে। যখন আপনি ছবি আপলোড করেন, সবসময় অল্ট ফিল্ড পূরণ করুন।"
+        },
+        {
+          "en": "Include your focus keyphrase naturally if it fits. For example, `on-page SEO tips checklist` works well for an image showing an SEO checklist. Avoid keyword stuffing, because that hurts more than it helps.",
+          "bn": "যদি উপযুক্ত হয়, স্বাভাবিকভাবে আপনার ফোকাস কিওয়ার্ড যোগ করুন। উদাহরণস্বরূপ, একটি SEO চেকলিস্ট দেখানো ছবির জন্য `on-page SEO tips checklist` ভালো কাজ করে। কিওয়ার্ড স্টাফিং এড়িয়ে চলুন, কারণ এটা উপকারের চেয়ে ক্ষতি বেশি করে।"
+        },
+        {
+          "en": "### 7. Build Internal Links Between Your Pages",
+          "bn": "### ৭. আপনার পেজগুলোর মধ্যে ইন্টারনাল লিংক তৈরি করুন"
+        },
+        {
+          "en": "Internal links are links from one page on your site to another. They help Google discover new pages and understand the relationship between topics.",
+          "bn": "ইন্টারনাল লিংক হলো আপনার সাইটের একটি পেজ থেকে অন্য পেজে লিংক। এগুলো Google কে নতুন পেজ খুঁজে পেতে এবং টপিকগুলোর মধ্যে সম্পর্ক বুঝতে সাহায্য করে।"
+        },
+        {
+          "en": "For example, when you write about on-page SEO, link to a related article about WordPress or keyword research. This keeps visitors on your site longer and boosts every page's authority. Check out [Google Search Central](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) for official guidance on linking best practices.",
+          "bn": "উদাহরণস্বরূপ, আপনি যখন অন-পেজ SEO নিয়ে লেখেন, WordPress বা কিওয়ার্ড রিসার্চ নিয়ে সম্পর্কিত একটি আর্টিকেলে লিংক করুন। এতে ভিজিটররা আপনার সাইটে বেশি সময় থাকে এবং প্রতিটি পেজের অথরিটি বাড়ে। লিংকিং বেস্ট প্র্যাকটিস নিয়ে অফিসিয়াল গাইডেন্সের জন্য [Google Search Central](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) দেখুন।"
+        },
+        {
+          "en": "![Internal linking diagram showing connections between pages](assets/blog/internal-linking.webp)",
+          "bn": "![পেজগুলোর মধ্যে সংযোগ দেখানো ইন্টারনাল লিংকিং ডায়াগ্রাম](assets/blog/internal-linking.webp)"
+        },
+        {
+          "en": "### 8. Include Outbound Links to Trusted Sites",
+          "bn": "### ৮. বিশ্বস্ত সাইটে আউটবাউন্ড লিংক যোগ করুন"
+        },
+        {
+          "en": "Outbound links point from your page to another website. Linking to trusted sources like Google, Moz, or Ahrefs signals that your content is well-researched.",
+          "bn": "আউটবাউন্ড লিংক আপনার পেজ থেকে অন্য ওয়েবসাইটে নির্দেশ করে। Google, Moz বা Ahrefs এর মতো বিশ্বস্ত সোর্সে লিংক করা বোঝায় যে আপনার কনটেন্ট ভালোভাবে রিসার্চ করা।"
+        },
+        {
+          "en": "However, do not overdo it. Add two or three quality links per article. Avoid linking to low-quality or spammy sites, because that can harm your reputation.",
+          "bn": "তবে অতিরিক্ত করবেন না। প্রতি আর্টিকেলে দুই-তিনটি কোয়ালিটি লিংক যোগ করুন। নিম্নমানের বা স্প্যামি সাইটে লিংক করা এড়িয়ে চলুন, কারণ এটা আপনার সুনাম ক্ষতিগ্রস্ত করতে পারে।"
+        },
+        {
+          "en": "### 9. Keep Your URL Short and Clean",
+          "bn": "### ৯. আপনার URL ছোট এবং পরিষ্কার রাখুন"
+        },
+        {
+          "en": "Your URL slug should include your focus keyphrase. Use only lowercase letters and hyphens between words. Avoid numbers, dates, and unnecessary symbols.",
+          "bn": "আপনার URL স্লাগে ফোকাস কিওয়ার্ড থাকা উচিত। শুধু ছোট হাতের অক্ষর এবং শব্দের মাঝে হাইফেন ব্যবহার করুন। সংখ্যা, তারিখ এবং অপ্রয়োজনীয় চিহ্ন এড়িয়ে চলুন।"
+        },
+        {
+          "en": "For example, `yourblog.com/on-page-seo-tips` is much better than `yourblog.com/2026/09/post-12345`. Short URLs are easier to share, remember, and index.",
+          "bn": "উদাহরণস্বরূপ, `yourblog.com/on-page-seo-tips` লেখাটা `yourblog.com/2026/09/post-12345` এর চেয়ে অনেক ভালো। ছোট URL শেয়ার করা, মনে রাখা এবং ইনডেক্স করা সহজ।"
+        },
+        {
+          "en": "### 10. Monitor Your Keyphrase Density",
+          "bn": "### ১০. আপনার কিওয়ার্ড ডেনসিটি মনিটর করুন"
+        },
+        {
+          "en": "Keyphrase density means how often your focus keyphrase appears in your content. The ideal range is between 0.5% and 2.5%.",
+          "bn": "কিওয়ার্ড ডেনসিটি মানে আপনার কনটেন্টে ফোকাস কিওয়ার্ড কতবার দেখা যায়। আদর্শ রেঞ্জ হলো ০.৫% থেকে ২.৫% এর মধ্যে।"
+        },
+        {
+          "en": "For a 300-word article, this means using the keyphrase only two to four times. Modern SEO tools like [Yoast SEO](https://yoast.com/features/seo-analysis-tool/) or [Rank Math](https://rankmath.com/) can track this automatically. Avoid repeating the same phrase too often, because Google may flag it as keyword stuffing.",
+          "bn": "৩০০ শব্দের একটি আর্টিকেলে এর মানে হলো কিওয়ার্ড শুধু দুই থেকে চারবার ব্যবহার করা। [Yoast SEO](https://yoast.com/features/seo-analysis-tool/) বা [Rank Math](https://rankmath.com/) এর মতো আধুনিক SEO টুল এটা অটোমেটিক ট্র্যাক করতে পারে। একই ফ্রেজ অতিরিক্ত বারবার ব্যবহার করবেন না, কারণ Google এটাকে কিওয়ার্ড স্টাফিং হিসেবে চিহ্নিত করতে পারে।"
+        },
+        {
+          "en": "## Common On-Page SEO Mistakes to Avoid",
+          "bn": "## যে সাধারণ অন-পেজ এসইও ভুলগুলো এড়িয়ে চলবেন"
+        },
+        {
+          "en": "Many beginners make the same mistakes when applying on-page SEO tips. Learning them now saves a lot of time later.",
+          "bn": "অন-পেজ এসইও টিপস প্রয়োগ করার সময় অনেক বিগিনার একই ভুল করেন। এখনই সেগুলো শিখে নিলে পরে অনেক সময় বাঁচবে।"
+        },
+        {
+          "en": "- Using the same keyphrase on multiple pages\n- Writing meta descriptions that are too short\n- Skipping image alt text entirely\n- Adding too many outbound links\n- Using H2 for the main title instead of H1\n- Forgetting internal links completely",
+          "bn": "- একই কিওয়ার্ড একাধিক পেজে ব্যবহার করা\n- অতিরিক্ত ছোট মেটা ডেসক্রিপশন লেখা\n- ছবির অল্ট টেক্সট সম্পূর্ণ বাদ দেওয়া\n- অতিরিক্ত আউটবাউন্ড লিংক যোগ করা\n- মূল টাইটেলের জন্য H1 এর বদলে H2 ব্যবহার করা\n- ইন্টারনাল লিংক সম্পূর্ণ ভুলে যাওয়া"
+        },
+        {
+          "en": "Avoid these pitfalls, and your pages will perform far better than most beginner websites.",
+          "bn": "এই ভুলগুলো এড়িয়ে চললে আপনার পেজগুলো বেশিরভাগ বিগিনার ওয়েবসাইটের চেয়ে অনেক ভালো পারফর্ম করবে।"
+        },
+        {
+          "en": "## Final Thoughts",
+          "bn": "## শেষ কথা"
+        },
+        {
+          "en": "Mastering these on-page SEO tips takes practice, but each step is simple. Start with one page at a time. Apply one tip, then move to the next.",
+          "bn": "এই অন-পেজ এসইও টিপসগুলো আয়ত্ত করতে অভ্যাস লাগে, কিন্তু প্রতিটি ধাপই সহজ। একবারে একটি পেজ দিয়ে শুরু করুন। একটি টিপস প্রয়োগ করুন, তারপর পরেরটায় যান।"
+        },
+        {
+          "en": "Over time, these small improvements add up to significant ranking gains. If you found this guide helpful, explore more [SEO and WordPress tutorials on this blog](blog.html) or check out my [complete SEO toolkit project](index.html#portfolio). You can also visit [Ahrefs Blog](https://ahrefs.com/blog/) for deeper SEO insights.",
+          "bn": "সময়ের সাথে সাথে এই ছোট ছোট উন্নতি একসাথে যোগ হয়ে উল্লেখযোগ্য র‍্যাঙ্কিং লাভে পরিণত হয়। এই গাইডটি যদি সহায়ক মনে হয়, তাহলে [এই ব্লগে আরও SEO ও WordPress টিউটোরিয়াল](blog.html) দেখুন অথবা আমার [কমপ্লিট SEO টুলকিট প্রজেক্ট](index.html#portfolio) দেখুন। আপনি গভীর SEO ইনসাইটের জন্য [Ahrefs Blog](https://ahrefs.com/blog/) ও ভিজিট করতে পারেন।"
+        }
+      ]
+    },
+        {
+      "title": {
+        "en": "How to Start a Blog in 2026 and Make Money (Step-by-Step)",
+        "bn": "২০২৬ সালে কিভাবে ব্লগ শুরু করবেন এবং টাকা উপার্জন করবেন (ধাপে ধাপে)"
+      },
+      "slug": "how-to-start-a-blog-and-make-money",
+      "category": "WordPress",
+      "date": "2026-09-19",
+      "image": "assets/blog/start-blog-make-money.webp",
+      "imageAlt": {
+        "en": "Step-by-step guide on how to start a blog in 2026 and make money online",
+        "bn": "২০২৬ সালে কিভাবে ব্লগ শুরু করবেন এবং অনলাইনে টাকা উপার্জন করবেন তার ধাপে ধাপে গাইড"
+      },
+      "excerpt": {
+        "en": "Learn how to start a blog in 2026 and make money online with this step-by-step guide. Covers niche selection, hosting, WordPress setup, and the top monetization methods.",
+        "bn": "এই ধাপে ধাপে গাইডে ২০২৬ সালে কিভাবে ব্লগ শুরু করবেন এবং অনলাইনে টাকা উপার্জন করবেন তা শিখুন। নিশ নির্বাচন, হোস্টিং, ওয়ার্ডপ্রেস সেটআপ এবং শীর্ষ মনিটাইজেশন পদ্ধতি কভার করা হয়েছে।"
+      },
+      "content": [
+        {
+          "en": "Learning how to start a blog in 2026 and make money is one of the smartest online skills you can develop today. Blogging is no longer just a hobby. It has become a real income source for millions of people around the world. Whether you want a side income or a full-time career, this step-by-step guide walks you through everything you need — from choosing a niche to earning your first dollar.",
+          "bn": "২০২৬ সালে কিভাবে ব্লগ শুরু করবেন এবং টাকা উপার্জন করবেন — এটি শেখা আজকের সবচেয়ে স্মার্ট অনলাইন স্কিলগুলোর একটি। ব্লগিং এখন আর শুধু শখ নয়। এটি বিশ্বজুড়ে লক্ষ লক্ষ মানুষের জন্য সত্যিকারের আয়ের উৎস হয়ে দাঁড়িয়েছে। আপনি যদি সাইড ইনকাম বা ফুল-টাইম ক্যারিয়ার চান, এই ধাপে ধাপে গাইড আপনাকে সবকিছু দেখাবে — নিশ বাছাই থেকে আপনার প্রথম ডলার উপার্জন পর্যন্ত।"
+        },
+        {
+          "en": "## Why Blogging Still Works in 2026",
+          "bn": "## ২০২৬ সালেও কেন ব্লগিং কাজ করে"
+        },
+        {
+          "en": "Some people say blogging is dead. That could not be further from the truth. In 2026, blogging has simply evolved. Search engines now reward high-quality, focused content more than ever. Readers still trust blogs for detailed, honest information they cannot find elsewhere.",
+          "bn": "কেউ কেউ বলেন ব্লগিং শেষ। এটা সত্য থেকে অনেক দূরে। ২০২৬ সালে ব্লগিং শুধু বিবর্তিত হয়েছে। সার্চ ইঞ্জিন এখন আগের যেকোনো সময়ের চেয়ে উচ্চমানের ও ফোকাসড কনটেন্টকে বেশি পুরস্কৃত করে। পাঠকরা এখনো বিস্তারিত ও সৎ তথ্যের জন্য ব্লগের উপর ভরসা করে, যা তারা অন্য কোথাও খুঁজে পায় না।"
+        },
+        {
+          "en": "With AI tools, smart SEO techniques, and multiple income channels, a well-run blog can earn anywhere from a few hundred dollars to several thousand every month. Because of these reasons, starting a blog today is still one of the best long-term investments of your time.",
+          "bn": "AI টুল, স্মার্ট SEO টেকনিক এবং একাধিক আয়ের চ্যানেলের মাধ্যমে একটি ভালোভাবে পরিচালিত ব্লগ মাসে কয়েকশ থেকে কয়েক হাজার ডলার পর্যন্ত উপার্জন করতে পারে। এই কারণেই আজও ব্লগ শুরু করা আপনার সময়ের সেরা দীর্ঘমেয়াদি বিনিয়োগগুলোর একটি।"
+        },
+        {
+          "en": "## The 6 Steps to Start a Blog and Make Money",
+          "bn": "## ব্লগ শুরু করে টাকা উপার্জনের ৬টি ধাপ"
+        },
+        {
+          "en": "Here is the complete process. Follow each step carefully and take your time.",
+          "bn": "এখানে সম্পূর্ণ প্রক্রিয়া দেওয়া হলো। প্রতিটি ধাপ সতর্কভাবে অনুসরণ করুন এবং সময় নিন।"
+        },
+        {
+          "en": "### Step 1 – Choose a Profitable Niche",
+          "bn": "### ধাপ ১ – একটি লাভজনক নিশ বাছাই করুন"
+        },
+        {
+          "en": "Your niche is the main topic your blog will cover. Pick something you genuinely enjoy writing about, but also something that has earning potential.",
+          "bn": "আপনার নিশ হলো সেই মূল বিষয় যা আপনার ব্লগ কভার করবে। এমন কিছু বাছুন যা আপনি সত্যিই লিখতে উপভোগ করেন, তবে এমনও যা আয়ের সম্ভাবনা রাখে।"
+        },
+        {
+          "en": "Popular profitable niches include personal finance, health and fitness, technology, digital marketing, and personal development. These niches attract advertisers and offer products you can promote as an affiliate.",
+          "bn": "জনপ্রিয় লাভজনক নিশের মধ্যে রয়েছে পার্সোনাল ফাইন্যান্স, হেলথ অ্যান্ড ফিটনেস, টেকনোলজি, ডিজিটাল মার্কেটিং এবং পার্সোনাল ডেভেলপমেন্ট। এই নিশগুলো বিজ্ঞাপনদাতাদের আকর্ষণ করে এবং এমন প্রোডাক্ট দেয় যা আপনি অ্যাফিলিয়েট হিসেবে প্রচার করতে পারেন।"
+        },
+        {
+          "en": "![Blogging niche selection diagram showing different categories](assets/blog/blog-niche-selection.webp)",
+          "bn": "![বিভিন্ন ক্যাটাগরি দেখানো ব্লগিং নিশ নির্বাচনের ডায়াগ্রাম](assets/blog/blog-niche-selection.webp)"
+        },
+        {
+          "en": "### Step 2 – Get a Domain Name and Hosting",
+          "bn": "### ধাপ ২ – একটি ডোমেইন নাম ও হোস্টিং নিন"
+        },
+        {
+          "en": "A domain name is your blog's address. Pick something short and easy to remember. Use `.com` whenever possible.",
+          "bn": "ডোমেইন নাম হলো আপনার ব্লগের ঠিকানা। ছোট ও মনে রাখা সহজ এমন কিছু বাছুন। সম্ভব হলে `.com` ব্যবহার করুন।"
+        },
+        {
+          "en": "For hosting, choose a reliable provider. Popular options include [Bluehost](https://www.bluehost.com/), [SiteGround](https://www.siteground.com/), and [Hostinger](https://www.hostinger.com/). For domains, check [Namecheap](https://www.namecheap.com/). A good host keeps your blog fast and secure.",
+          "bn": "হোস্টিংয়ের জন্য নির্ভরযোগ্য প্রোভাইডার বাছুন। জনপ্রিয় অপশনের মধ্যে রয়েছে [Bluehost](https://www.bluehost.com/), [SiteGround](https://www.siteground.com/), এবং [Hostinger](https://www.hostinger.com/)। ডোমেইনের জন্য [Namecheap](https://www.namecheap.com/) দেখুন। একটি ভালো হোস্ট আপনার ব্লগকে দ্রুত ও নিরাপদ রাখে।"
+        },
+        {
+          "en": "### Step 3 – Install WordPress and Set Up Your Blog",
+          "bn": "### ধাপ ৩ – ওয়ার্ডপ্রেস ইনস্টল করে ব্লগ সেটআপ করুন"
+        },
+        {
+          "en": "Most hosting providers offer a one-click WordPress installation. WordPress is free, flexible, and powers over 43% of the web. If you are new to it, follow my [step-by-step WordPress guide](blog-post.html?slug=how-to-build-a-wordpress-website) to get started.",
+          "bn": "বেশিরভাগ হোস্টিং প্রোভাইডার ওয়ান-ক্লিক ওয়ার্ডপ্রেস ইনস্টলেশন অফার করে। ওয়ার্ডপ্রেস ফ্রি, নমনীয় এবং ইন্টারনেটের ৪৩%-এর বেশি সাইটে ব্যবহৃত। আপনি যদি নতুন হন, শুরু করতে আমার [ধাপে ধাপে ওয়ার্ডপ্রেস গাইড](blog-post.html?slug=how-to-build-a-wordpress-website) অনুসরণ করুন।"
+        },
+        {
+          "en": "Then install a lightweight theme like Astra or GeneratePress. Add a few essential plugins such as Yoast SEO, WPForms, and LiteSpeed Cache. Keep plugins under fifteen for better speed.",
+          "bn": "এরপর Astra বা GeneratePress এর মতো লাইটওয়েট থিম ইনস্টল করুন। Yoast SEO, WPForms এবং LiteSpeed Cache এর মতো কয়েকটি প্রয়োজনীয় প্লাগইন যোগ করুন। ভালো স্পিডের জন্য প্লাগইন ১৫টির নিচে রাখুন।"
+        },
+        {
+          "en": "### Step 4 – Write Content That Ranks",
+          "bn": "### ধাপ ৪ – এমন কনটেন্ট লিখুন যা র‍্যাঙ্ক করে"
+        },
+        {
+          "en": "Your content is what brings people to your blog. Write detailed, helpful articles that answer real questions.",
+          "bn": "আপনার কনটেন্টই মানুষকে আপনার ব্লগে নিয়ে আসে। বিস্তারিত ও সহায়ক আর্টিকেল লিখুন যা সত্যিকারের প্রশ্নের উত্তর দেয়।"
+        },
+        {
+          "en": "Every post should target one focus keyphrase. To learn the complete process, read my [10 On-Page SEO tips for beginners](blog-post.html?slug=10-on-page-seo-tips-for-beginners). Aim to publish at least one post per week, and always focus on quality over quantity.",
+          "bn": "প্রতিটি পোস্টে একটি ফোকাস কিওয়ার্ড টার্গেট করা উচিত। সম্পূর্ণ প্রক্রিয়া শিখতে আমার [বিগিনারদের জন্য ১০টি অন-পেজ SEO টিপস](blog-post.html?slug=10-on-page-seo-tips-for-beginners) পড়ুন। সপ্তাহে অন্তত একটি পোস্ট প্রকাশ করার চেষ্টা করুন এবং সবসময় পরিমাণের চেয়ে গুণে বেশি ফোকাস দিন।"
+        },
+        {
+          "en": "### Step 5 – Monetize Your Blog",
+          "bn": "### ধাপ ৫ – আপনার ব্লগ মনিটাইজ করুন"
+        },
+        {
+          "en": "This is where the money comes in. There are several proven ways to earn from a blog. The most common approach is to combine two or three methods at once.",
+          "bn": "এখানেই টাকা আসে। ব্লগ থেকে আয়ের কয়েকটি প্রমাণিত উপায় রয়েছে। সবচেয়ে সাধারণ পদ্ধতি হলো দুই বা তিনটি পদ্ধতি একসাথে ব্যবহার করা।"
+        },
+        {
+          "en": "![Blog monetization methods including AdSense, affiliate marketing and digital products](assets/blog/blog-monetization.webp)",
+          "bn": "![AdSense, অ্যাফিলিয়েট মার্কেটিং ও ডিজিটাল প্রোডাক্ট সহ ব্লগ মনিটাইজেশন পদ্ধতি](assets/blog/blog-monetization.webp)"
+        },
+        {
+          "en": "- **Google AdSense** – Display ads on your blog. Easiest to start.\n- **Affiliate Marketing** – Recommend products and earn a commission. Amazon Associates is a popular choice.\n- **Digital Products** – Sell eBooks, templates, or courses.\n- **Sponsored Posts** – Brands pay you to write about their products.\n- **Memberships** – Offer exclusive content for a monthly fee.",
+          "bn": "- **Google AdSense** – আপনার ব্লগে বিজ্ঞাপন দেখান। শুরু করা সবচেয়ে সহজ।\n- **অ্যাফিলিয়েট মার্কেটিং** – প্রোডাক্ট সুপারিশ করে কমিশন পান। Amazon Associates একটি জনপ্রিয় অপশন।\n- **ডিজিটাল প্রোডাক্ট** – ইবুক, টেমপ্লেট বা কোর্স বিক্রি করুন।\n- **স্পন্সরড পোস্ট** – ব্র্যান্ড আপনাকে তাদের পণ্য নিয়ে লিখতে টাকা দেবে।\n- **মেম্বারশিপ** – মাসিক ফি-এর বিনিময়ে এক্সক্লুসিভ কনটেন্ট দিন।"
+        },
+        {
+          "en": "Start with AdSense and affiliate marketing. Add others as your blog grows.",
+          "bn": "AdSense এবং অ্যাফিলিয়েট মার্কেটিং দিয়ে শুরু করুন। আপনার ব্লগ বাড়ার সাথে সাথে অন্যগুলো যোগ করুন।"
+        },
+        {
+          "en": "### Step 6 – Promote Your Blog and Drive Traffic",
+          "bn": "### ধাপ ৬ – আপনার ব্লগ প্রচার করুন ও ট্রাফিক আনুন"
+        },
+        {
+          "en": "A blog with no traffic earns nothing. So promotion matters just as much as content.",
+          "bn": "ট্রাফিক ছাড়া ব্লগ কিছুই আয় করে না। তাই কনটেন্টের মতো প্রচারও সমান গুরুত্বপূর্ণ।"
+        },
+        {
+          "en": "Share your posts on Pinterest, Facebook, and X. Answer questions on platforms like Quora and Reddit. Over time, SEO will bring steady traffic, but social media gives you the first push. To understand SEO better, see the [official Google Search Central guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide).",
+          "bn": "Pinterest, Facebook এবং X এ আপনার পোস্ট শেয়ার করুন। Quora ও Reddit এর মতো প্ল্যাটফর্মে প্রশ্নের উত্তর দিন। সময়ের সাথে SEO স্থির ট্রাফিক আনবে, তবে সোশ্যাল মিডিয়া আপনাকে প্রথম ধাক্কাটা দেবে। SEO আরও ভালোভাবে বুঝতে [Google Search Central এর অফিসিয়াল গাইড](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) দেখুন।"
+        },
+        {
+          "en": "## Common Mistakes Beginners Make",
+          "bn": "## বিগিনাররা যে সাধারণ ভুলগুলো করেন"
+        },
+        {
+          "en": "Many new bloggers give up too early because of avoidable mistakes. Learning them now saves a lot of frustration.",
+          "bn": "অনেক নতুন ব্লগার এড়ানোযোগ্য ভুলের কারণে খুব তাড়াতাড়ি হাল ছেড়ে দেন। এখনই সেগুলো শিখে নিলে অনেক হতাশা বাঁচবে।"
+        },
+        {
+          "en": "- Choosing a niche only for money\n- Publishing low-quality content too fast\n- Ignoring SEO completely\n- Not being consistent\n- Giving up before six months\n- Copying content from other blogs",
+          "bn": "- শুধু টাকার জন্য নিশ বাছাই করা\n- খুব দ্রুত নিম্নমানের কনটেন্ট প্রকাশ করা\n- SEO সম্পূর্ণ উপেক্ষা করা\n- নিয়মিত না থাকা\n- ছয় মাসের আগেই হাল ছেড়ে দেওয়া\n- অন্য ব্লগ থেকে কনটেন্ট কপি করা"
+        },
+        {
+          "en": "Avoid these pitfalls, and you will be far ahead of most new bloggers.",
+          "bn": "এই ভুলগুলো এড়িয়ে চললে আপনি বেশিরভাগ নতুন ব্লগারের চেয়ে অনেক এগিয়ে থাকবেন।"
+        },
+        {
+          "en": "## Final Thoughts",
+          "bn": "## শেষ কথা"
+        },
+        {
+          "en": "Learning how to start a blog and make money takes time, but the process itself is simple. Pick a niche, set up WordPress, publish helpful content consistently, and start monetizing once you have steady traffic.",
+          "bn": "ব্লগ শুরু করে টাকা উপার্জন করা শিখতে সময় লাগে, কিন্তু প্রক্রিয়াটি সহজ। একটি নিশ বাছুন, ওয়ার্ডপ্রেস সেটআপ করুন, ধারাবাহিকভাবে সহায়ক কনটেন্ট প্রকাশ করুন এবং স্থির ট্রাফিক পাওয়ার পর মনিটাইজ করা শুরু করুন।"
+        },
+        {
+          "en": "Do not wait for perfect conditions. Start today, learn as you go, and improve every week. If you found this guide helpful, explore more [WordPress and SEO tutorials on this blog](blog.html) or check out my [real client projects in my portfolio](index.html#portfolio).",
+          "bn": "নিখুঁত পরিস্থিতির জন্য অপেক্ষা করবেন না। আজই শুরু করুন, শিখতে শিখতে এগিয়ে যান এবং প্রতি সপ্তাহে উন্নতি করুন। এই গাইডটি যদি সহায়ক মনে হয়, তাহলে [এই ব্লগে আরও WordPress ও SEO টিউটোরিয়াল](blog.html) দেখুন অথবা আমার [পোর্টফোলিওতে বাস্তব ক্লায়েন্ট প্রজেক্টগুলো](index.html#portfolio) দেখুন।"
+        }
+      ]
+    }
+  ]
+}

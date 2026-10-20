@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "title": "রক্তদান ফাউন্ডেশন",
+      "category": "WordPress",
+      "categories": ["WordPress", "Non-Profit"],
+      "label": "Blood Donation Website",
+      "image": "assets/projects/blood-donation/cover.webp",
+      "imageAlt": "রক্তদান ফাউন্ডেশন হোমপেজ",
+      "excerpt": "রক্তদাতা ও রক্তগ্রহীতাদের সংযুক্ত করার জন্য একটি সম্পূর্ণ WordPress ভিত্তিক ফাউন্ডেশন ওয়েবসাইট।",
+      "description": "একটি সামাজিক রক্তদান ফাউন্ডেশনের জন্য বানানো ওয়েবসাইট, যেখানে রক্তদাতা রেজিস্ট্রেশন, রক্তের অনুরোধ এবং ক্যাম্পেইন সম্পর্কিত তথ্য রয়েছে।",
+      "role": "WordPress Developer & Designer",
+      "tools": ["WordPress", "Elementor", "Smart Slider 3"],
+      "challenge": "ফাউন্ডেশনের কোনো অনলাইন উপস্থিতি ছিল না, যার কারণে রক্তের প্রয়োজন হলে মানুষ খুঁজে পেত না।",
+      "approach": "ইউজার-ফ্রেন্ডলি ইন্টারফেস ডিজাইন করেছি যেখানে যে কেউ সহজেই রক্তদাতা হিসেবে রেজিস্ট্রেশন করতে পারে এবং রক্তের অনুরোধ জানাতে পারে।",
+      "whatIDid": [
+        "Elementor দিয়ে কাস্টম ডিজাইন",
+        "Smart Slider 3 দিয়ে রেসপন্সিভ হিরো স্লাইডার",
+        "রক্তদাতা রেজিস্ট্রেশন ফর্ম তৈরি",
+        "মোবাইল অপ্টিমাইজড লেআউট"
+      ],
+      "process": [
+        "রিকোয়ারমেন্ট অ্যানালাইসিস",
+        "UI ডিজাইন ও স্ট্রাকচার",
+        "WordPress ডেভেলপমেন্ট",
+        "টেস্টিং এবং লাইভ"
+      ],
+      "result": "ফাউন্ডেশনটি এখন অনলাইনে রক্তদাতা ও গ্রহীতাদের সংযুক্ত করতে পারছে এবং স্বেচ্ছাসেবকদের কাছ থেকে সহজেই আবেদন পাচ্ছে।",
+      "liveUrl": "https://your-live-site.com",
+      "screenshots": [
+        {
+          "src": "assets/projects/blood-donation/screenshot1.webp",
+          "alt": "Smart Slider 3 ড্যাশবোর্ড",
+          "caption": "Smart Slider 3 দিয়ে তৈরি হিরো স্লাইডার"
+        },
+        {
+          "src": "assets/projects/blood-donation/screenshot2.webp",
+          "alt": "ফিচার কার্ড সেকশন",
+          "caption": "রক্তদাতা হওয়ার ৪টি প্রধান ধাপ"
+        }
+      ]
+    },
+    {
+      "title": "Paradox Tech BD",
+      "category": "E-commerce",
+      "categories": ["E-commerce", "WooCommerce"],
+      "label": "WooCommerce Store",
+      "image": "assets/projects/paradox-tech/cover.webp",
+      "imageAlt": "Paradox Tech BD হোমপেজ",
+      "excerpt": "স্মার্টওয়াচ, গ্যাজেট এবং কম্পিউটার অ্যাক্সেসরিজের জন্য সম্পূর্ণ রেসপন্সিভ ই-কমার্স ওয়েবসাইট।",
+      "description": "একটি প্রিমিয়াম ইলেকট্রনিক্স শপ, যেখানে WooCommerce ব্যবহার করে প্রোডাক্ট ক্যাটাগরি, কার্ট, চেকআউট এবং পেমেন্ট গেটওয়ে সেটআপ করা হয়েছে।",
+      "role": "WordPress & WooCommerce Developer",
+      "tools": ["WordPress", "WooCommerce", "Elementor", "CSS"],
+      "challenge": "অনলাইনে ইলেকট্রনিক্স প্রোডাক্ট বিক্রির জন্য একটি বিশ্বস্ত এবং সহজে ব্যবহারযোগ্য প্ল্যাটফর্ম তৈরি করা।",
+      "approach": "একটি ক্লিন এবং মডার্ন ই-কমার্স লেআউট তৈরি করেছি যেখানে কাস্টমাররা খুব সহজেই প্রোডাক্ট খুঁজে পাবে এবং সিকিউর পেমেন্ট করতে পারবে।",
+      "whatIDid": [
+        "WooCommerce স্টোর সেটআপ",
+        "প্রোডাক্ট ক্যাটাগরি ও ফিল্টার তৈরি",
+        "কাস্টম হোমপেজ ডিজাইন",
+        "বিকাশ, নগদ এবং কার্ড পেমেন্ট ইন্টিগ্রেশন"
+      ],
+      "process": [
+        "মার্কেট ও কম্পিটিটর অ্যানালাইসিস",
+        "সাইট ম্যাপ ও ক্যাটাগরি প্লানিং",
+        "WooCommerce ডেভেলপমেন্ট",
+        "সিকিউরিটি ও স্পিড অপ্টিমাইজেশন"
+      ],
+      "result": "সাইটটি এখন সফলভাবে প্রোডাক্ট ডিসপ্লে করছে এবং কাস্টমাররা সহজেই অনলাইনে অর্ডার করতে পারছে।",
+      "liveUrl": "https://your-live-site.com",
+      "screenshots": [
+        {
+          "src": "assets/projects/paradox-tech/screenshot1.webp",
+          "alt": "Paradox Tech BD ফিচার সেকশন",
+          "caption": "কেন Paradox Tech BD থেকে কিনবেন"
+        },
+        {
+          "src": "assets/projects/paradox-tech/screenshot2.webp",
+          "alt": "Paradox Tech BD ফুটার",
+          "caption": "কাস্টমার কেয়ার ও ক্যাটাগরি ফুটার"
+        }
+      ]
+    }
+  ]
+}

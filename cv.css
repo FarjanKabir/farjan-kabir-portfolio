@@ -1,0 +1,367 @@
+/* ==========================================
+   PREMIUM CV STYLES (Screen Version)
+   ========================================== */
+
+.cv-wrapper {
+  padding: 140px 0 80px;
+  background: var(--color-bg);
+  min-height: 100vh;
+}
+
+/* Action Bar */
+.cv-action-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.cv-action-btns {
+  display: flex;
+  gap: 10px;
+}
+
+.cv-action-btn {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+  padding: 8px 16px;
+  border-radius: 8px;
+  font: 600 0.85rem var(--font-display);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cv-action-btn:hover {
+  background: var(--gradient-accent);
+  color: #000;
+  border-color: transparent;
+}
+
+/* Main CV Paper Design */
+.cv-content {
+  background: #0d1117;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 20px;
+  padding: 60px;
+  box-shadow: 0 30px 80px rgba(0,0,0,0.5);
+  color: #e6edf3;
+}
+
+.cv-header {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  border-bottom: 2px solid rgba(255,255,255,0.1);
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+
+.cv-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--color-accent-cyan);
+  box-shadow: 0 0 30px rgba(0, 245, 212, 0.3);
+}
+
+.cv-title-area h1 {
+  font: 700 2.5rem/1.1 var(--font-display);
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.cv-title-area h2 {
+  font: 500 1.2rem var(--font-display);
+  color: var(--color-accent-cyan);
+  margin-bottom: 15px;
+}
+
+.cv-contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  font-size: 0.9rem;
+  color: #8b949e;
+}
+
+.cv-contact-info span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Sections */
+.cv-section {
+  margin-bottom: 40px;
+}
+
+.cv-section-title {
+  font: 700 1.2rem var(--font-display);
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.cv-section-title i {
+  color: var(--color-accent-cyan);
+}
+
+/* Timeline for Experience */
+.cv-timeline {
+  border-left: 2px solid rgba(255,255,255,0.1);
+  padding-left: 20px;
+  margin-left: 10px;
+}
+
+.cv-timeline-item {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.cv-timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -27px;
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--gradient-accent);
+}
+
+.cv-timeline-item h3 {
+  font: 600 1.1rem var(--font-display);
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.cv-timeline-item h4 {
+  font: 500 0.95rem var(--font-display);
+  color: var(--color-accent-cyan);
+  margin-bottom: 4px;
+}
+
+.cv-timeline-date {
+  font-size: 0.8rem;
+  color: #8b949e;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.cv-timeline-item ul {
+  padding-left: 18px;
+  list-style-type: disc;
+  color: #c9d1d9;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+/* Grid Layouts */
+.cv-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; }
+.cv-skills-group h4 { font: 600 0.95rem var(--font-display); color: #fff; margin-bottom: 10px; }
+.cv-skills-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.cv-skill-tag {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  color: #c9d1d9;
+}
+
+.cv-edu-item, .cv-project-item {
+  margin-bottom: 18px;
+}
+
+.cv-edu-item h4, .cv-project-item h4 {
+  font: 600 1rem var(--font-display);
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.cv-edu-item p, .cv-project-item p {
+  color: #c9d1d9;
+  font-size: 0.9rem;
+  margin-bottom: 2px;
+}
+
+.cv-edu-item span {
+  font-size: 0.8rem;
+  color: #8b949e;
+}
+
+/* References Styles (Screen) */
+.cv-ref-item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.cv-ref-img-wrap {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+  border: 2px solid var(--color-accent-cyan);
+  box-shadow: 0 0 15px rgba(0, 245, 212, 0.2);
+}
+
+.cv-ref-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cv-ref-info { flex-grow: 1; }
+.cv-ref-info h4 { font: 600 1rem var(--font-display); color: #fff; margin-bottom: 4px; }
+.cv-ref-info p { color: var(--color-accent-cyan); font-size: 0.85rem; margin-bottom: 4px; line-height: 1.4; }
+.cv-ref-info span { font-size: 0.8rem; color: #8b949e; }
+
+
+/* ==========================================
+   PERFECT PRINT VERSION (Forces White Background & Black Text)
+   ========================================== */
+@media print {
+  @page { 
+    margin: 12mm 15mm; 
+    size: A4; 
+  }
+  
+    /* ১. সম্পূর্ণ ব্যাকগ্রাউন্ড সাদা এবং ফন্ট বাগ ফিক্স */
+  *, *::before, *::after {
+    background: transparent !important;
+    background-color: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    letter-spacing: normal !important;
+  }
+  /* ২. "L" বা অক্ষর মোটা হওয়া বন্ধ করতে */
+  body, p, span, li, div, a {
+    font-weight: 400 !important; /* Normal weight */
+  }
+  h1, h2, h3, h4, strong, b {
+    font-weight: 700 !important; /* Bold for headings only */
+  }
+
+  /* ৩. সব আইকন সম্পূর্ণ লুকানো (যাতে PDF-এ অদ্ভুত চিহ্ন না আসে) */
+  i, .fa, .fas, .far, .fab, .cv-section-title i { 
+    display: none !important; 
+  }
+
+
+  body, .cv-wrapper, .cv-content { 
+    background: #fff !important; 
+    padding: 0 !important; 
+    margin: 0 !important;
+    border: none !important;
+  }
+
+  /* ২. হেডার, বাটন, নেভিগেশন সম্পূর্ণ লুকানো */
+  .site-header, .cv-action-bar, .site-footer { 
+    display: none !important; 
+  }
+
+  /* ৩. ফন্ট সাইজ এবং লাইন হাইট ঠিক করা */
+  * {
+    font-family: Arial, Helvetica, sans-serif !important; 
+    font-weight: normal !important;
+  }
+  h1, h2, h3, h4 { font-weight: bold !important; }
+
+  /* ৪. হেডার স্টাইল */
+  .cv-header { 
+    border-bottom: 2px solid #000 !important; 
+    padding-bottom: 15px !important;
+    margin-bottom: 20px !important;
+    display: flex !important;
+    gap: 20px !important;
+    page-break-inside: avoid !important;
+  }
+  .cv-photo { 
+    border: 2px solid #000 !important; 
+    width: 100px !important; 
+    height: 100px !important;
+  }
+  .cv-title-area h1 { font-size: 24px !important; }
+  .cv-title-area h2 { font-size: 14px !important; color: #333 !important; }
+  .cv-contact-info, .cv-contact-info span { 
+    color: #333 !important; 
+    font-size: 11px !important;
+  }
+
+  /* ৫. সেকশন টাইটেল */
+  .cv-section { 
+    margin-bottom: 18px !important;
+    page-break-inside: avoid !important; 
+  }
+  .cv-section-title { 
+    border-bottom: 1px solid #000 !important; 
+    font-size: 14px !important;
+    padding-bottom: 5px !important;
+    margin-bottom: 12px !important;
+  }
+  .cv-section-title i { display: none !important; /* প্রিন্টে আইকন দরকার নেই */ }
+
+  /* ৬. টাইমলাইন (Experience) */
+  .cv-timeline { border-left: 1.5px solid #000 !important; }
+  .cv-timeline-item { page-break-inside: avoid !important; margin-bottom: 15px !important; }
+  .cv-timeline-item::before { background: #000 !important; border: 1px solid #fff !important; left: -26px !important;}
+  .cv-timeline-item h3 { font-size: 13px !important; }
+  .cv-timeline-item h4 { font-size: 12px !important; color: #333 !important; }
+  .cv-timeline-item ul { font-size: 11px !important; line-height: 1.4 !important; color: #000 !important;}
+  .cv-timeline-date { font-size: 10px !important; color: #333 !important;}
+
+  /* ৭. গ্রিড লেআউট (সব একের পর এক নিচে বসবে) */
+  .cv-grid-2 { display: block !important; }
+  .cv-grid-2 > div { margin-bottom: 15px !important; }
+
+  /* ৮. স্কিলস, এডুকেশন, প্রজেক্টস */
+  .cv-skills-group h4 { font-size: 12px !important; margin-bottom: 5px !important; }
+  .cv-skills-list { gap: 5px !important; }
+  .cv-skill-tag { 
+    border: 1px solid #000 !important; 
+    padding: 2px 6px !important;
+    font-size: 10px !important;
+  }
+  
+  .cv-edu-item h4, .cv-project-item h4 { font-size: 12px !important; }
+  .cv-edu-item p, .cv-project-item p { font-size: 11px !important; color: #000 !important; }
+  .cv-edu-item span { font-size: 10px !important; color: #333 !important; }
+
+  /* ৯. রেফারেন্স সেকশন (ছবি ও বর্ডার কালো) */
+  .cv-ref-item {
+    border: 1px solid #000 !important; 
+    padding: 8px !important;
+    margin-bottom: 8px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 15px !important;
+    page-break-inside: avoid !important;
+  }
+  .cv-ref-img-wrap { 
+    width: 40px !important; 
+    height: 40px !important;
+    border: 1px solid #000 !important; 
+  }
+  .cv-ref-info h4 { font-size: 12px !important; }
+  .cv-ref-info p { font-size: 10px !important; color: #333 !important; }
+  .cv-ref-info span { font-size: 9px !important; color: #555 !important; }
+}

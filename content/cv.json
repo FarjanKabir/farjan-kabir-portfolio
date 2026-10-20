@@ -1,0 +1,120 @@
+{
+  "cv": {
+    "name": { "en": "Farjan Kabir", "bn": "ফারজান কবির" },
+    "title": { "en": "WordPress Developer & SEO Specialist", "bn": "ওয়ার্ডপ্রেস ডেভেলপার ও এসইও স্পেশালিস্ট" },
+    "company": { "en": "Founder of Farjan Paradox", "bn": "ফারজান প্যারাডক্সের প্রতিষ্ঠাতা" },
+    "photo": "assets/Image5.jpeg",
+    "contact": {
+      "email": "farjankabir495@gmail.com",
+      "phone": "+880 1314116037",
+      "location": { "en": "Rangpur, Bangladesh", "bn": "রংপুর, বাংলাদেশ" },
+      "website": "farjan-kabir-portfolio.netlify.app"
+    },
+    "summary": {
+      "en": "Results-driven WordPress Developer and SEO Specialist with over a year of hands-on experience delivering high-performance, search-optimized websites. As the Founder of Farjan Paradox, I lead a digital studio dedicated to providing end-to-end web solutions. I bridge the gap between clean web development, robust SEO strategies, and impactful graphic design to help businesses establish a strong online presence and drive real growth.",
+      "bn": "১ বছরের বেশি অভিজ্ঞতাসম্পন্ন একজন রেজাল্ট-ড্রিভেন ওয়ার্ডপ্রেস ডেভেলপার ও এসইও স্পেশালিস্ট, যিনি হাই-পারফরম্যান্স ও সার্চ-অপ্টিমাইজড ওয়েবসাইট তৈরি করেন। ফারজান প্যারাডক্সের প্রতিষ্ঠাতা হিসেবে আমি একটি ডিজিটাল স্টুডিও পরিচালনা করি, যেখানে ডেভেলপমেন্ট, এসইও এবং গ্রাফিক ডিজাইনের সমন্বয়ে ক্লায়েন্টদের অনলাইন উপস্থিতি শক্তিশালী করা হয় এবং প্রকৃত ব্যবসায়িক প্রবৃদ্ধি নিশ্চিত করা হয়।"
+    },
+    "experience": [
+      {
+        "role": { "en": "Founder & WordPress Developer", "bn": "প্রতিষ্ঠাতা ও ওয়ার্ডপ্রেস ডেভেলপার" },
+        "company": { "en": "Farjan Paradox", "bn": "ফারজান প্যারাডক্স" },
+        "date": { "en": "Jan 2025 – Present", "bn": "জানুয়ারি ২০২৫ – বর্তমান" },
+        "points": {
+          "en": [
+            "Founded a digital studio delivering WordPress websites, WooCommerce stores, SEO, and graphic design services.",
+            "Completed 5+ real projects including Blood Donation Foundation and WoodMart multi-vendor store.",
+            "Built custom solutions using Elementor, Astra, Dokan, and optimized sites for speed and search engines."
+          ],
+          "bn": [
+            "ওয়ার্ডপ্রেস ওয়েবসাইট, উকমার্স স্টোর, এসইও এবং গ্রাফিক ডিজাইন সেবা প্রদানের জন্য একটি ডিজিটাল স্টুডিও প্রতিষ্ঠা।",
+            "ব্লাড ডোনেশন ফাউন্ডেশন এবং উডমার্ট মাল্টি-ভেন্ডর স্টোরসহ ৫টির বেশি রিয়েল প্রজেক্ট সম্পন্ন।",
+            "এলিমেন্টর, অ্যাস্ট্রা, ডোকান ব্যবহার করে কাস্টম সলিউশন তৈরি এবং স্পিড ও সার্চ ইঞ্জিনের জন্য অপ্টিমাইজেশন।"
+          ]
+        }
+      },
+      {
+        "role": { "en": "Freelance Web Developer", "bn": "ফ্রিল্যান্স ওয়েব ডেভেলপার" },
+        "company": { "en": "E-learning and Earning Ltd", "bn": "ই-লার্নিং অ্যান্ড আর্নিং লিমিটেড" },
+        "date": { "en": "2025 (3 Months)", "bn": "২০২৫ (৩ মাস)" },
+        "points": {
+          "en": [
+            "Completed a 3-month freelance engagement focusing on WordPress development and web design.",
+            "Worked on theme customization, responsive layouts, basic SEO, and digital marketing setups.",
+            "Earned a government stipend of 15,000 BDT for successful project completion."
+          ],
+          "bn": [
+            "ওয়ার্ডপ্রেস ডেভেলপমেন্ট এবং ওয়েব ডিজাইনে ফোকাস করে ৩ মাসের ফ্রিল্যান্স কাজ সম্পন্ন।",
+            "থিম কাস্টমাইজেশন, রেসপনসিভ লেআউট, বেসিক এসইও এবং ডিজিটাল মার্কেটিং সেটআপে কাজ।",
+            "সফলভাবে কাজ শেষ করার জন্য ১৫,০০০ টাকা সরকারি বৃত্তি অর্জন।"
+          ]
+        }
+      }
+    ],
+    "skills": [
+      { 
+        "category": { "en": "Development", "bn": "ডেভেলপমেন্ট" }, 
+        "items": ["WordPress", "WooCommerce", "Elementor", "HTML5", "CSS3", "JavaScript"] 
+      },
+      { 
+        "category": { "en": "SEO & Optimization", "bn": "এসইও ও অপ্টিমাইজেশন" }, 
+        "items": ["On-Page SEO", "Off-Page SEO", "Technical SEO", "Backlink Building", "Keyword Research", "SEO Auditing", "Google Search Console"] 
+      },
+      { 
+        "category": { "en": "Graphic Design", "bn": "গ্রাফিক ডিজাইন" }, 
+        "items": ["Logo Design", "Banner Design", "Cover Page Design", "Brand Identity", "Adobe Illustrator"] 
+      },
+      { 
+        "category": { "en": "Digital Marketing", "bn": "ডিজিটাল মার্কেটিং" }, 
+        "items": ["Facebook Ads", "Pixel Setup", "Google Business Profile", "Social Media Management"] 
+      }
+    ],
+    "education": [
+      {
+        "degree": { "en": "Bachelor of Science (BSc) in Mathematics", "bn": "বিএসসি ইন ম্যাথমেটিক্স" },
+        "institution": { "en": "Kurigram Government College", "bn": "কুড়িগ্রাম সরকারি কলেজ" },
+        "date": { "en": "Session: 2025–2026 (1st Year, Ongoing)", "bn": "সেশন: ২০২৫–২০২৬ (১ম বর্ষ, চলমান)" }
+      },
+      {
+        "degree": { "en": "Higher Secondary Certificate (HSC) – Science", "bn": "উচ্চ মাধ্যমিক সার্টিফিকেট (এইচএসসি) – বিজ্ঞান" },
+        "institution": { "en": "Collectorate School and College", "bn": "কালেক্টরেট স্কুল অ্যান্ড কলেজ" },
+        "date": { "en": "GPA: 5.00 / 5.00 | Passing Year: 2024", "bn": "জিপিএ: ৫.০০ / ৫.০০ | পাসের বছর: ২০২৪" }
+      },
+      {
+        "degree": { "en": "Secondary School Certificate (SSC) – Science", "bn": "মাধ্যমিক স্কুল সার্টিফিকেট (এসএসসি) – বিজ্ঞান" },
+        "institution": { "en": "Collectorate School and College", "bn": "কালেক্টরেট স্কুল অ্যান্ড কলেজ" },
+        "date": { "en": "GPA: 4.94 / 5.00 | Passing Year: 2022", "bn": "জিপিএ: ৪.৯৪ / ৫.০০ | পাসের বছর: ২০২২" }
+      }
+    ],
+    "projects": [
+      { "title": "Blood Donation Foundation Website", "tech": "WordPress, Elementor, Smart Slider 3" },
+      { "title": "WoodMart Multi-Vendor Store", "tech": "WooCommerce, Dokan, Elementor" },
+      { "title": "Complete SEO Toolkit", "tech": "On-Page SEO, Backlink, Keyword Research" }
+    ],
+         "references": [
+      { 
+        "name": "Md Abdullah Naem", 
+        "title": { "en": "Digital Marketing Specialist (NSDA Level-4 Certified)", "bn": "ডিজিটাল মার্কেটিং স্পেশালিস্ট (এনএসডিএ লেভেল-৪)" },
+        "org": { "en": "E-Learning & Earning Ltd.", "bn": "ই-লার্নিং অ্যান্ড আর্নিং লিমিটেড" },
+        "image": "./assets/refs/1.jpg"
+      },
+      { 
+        "name": "Md Jahid Hasan", 
+        "title": { "en": "Web Development Specialist (NSDA Level-4 Certified)", "bn": "ওয়েব ডেভেলপমেন্ট স্পেশালিস্ট (এনএসডিএ লেভেল-৪)" },
+        "org": { "en": "E-Learning & Earning Ltd.", "bn": "ই-লার্নিং অ্যান্ড আর্নিং লিমিটেড" },
+        "image": "./assets/refs/2.jpg"
+      },
+      { 
+        "name": "Md Obaidullah", 
+        "title": { "en": "Digital Marketing Specialist (NSDA Level-4 Certified)", "bn": "ডিজিটাল মার্কেটিং স্পেশালিস্ট (এনএসডিএ লেভেল-৪)" },
+        "org": { "en": "E-Learning & Earning Ltd.", "bn": "ই-লার্নিং অ্যান্ড আর্নিং লিমিটেড" },
+        "image": "./assets/refs/3.jpg"
+      },
+      { 
+        "name": "Md Humayun Kabir", 
+        "title": { "en": "Graphics Design Specialist (NSDA Level-4 Certified)", "bn": "গ্রাফিক্স ডিজাইন স্পেশালিস্ট (এনএসডিএ লেভেল-৪)" },
+        "org": { "en": "E-Learning & Earning Ltd.", "bn": "ই-লার্নিং অ্যান্ড আর্নিং লিমিটেড" },
+        "image": "./assets/refs/4.jpg"
+      }
+    ]
+  }
+}
